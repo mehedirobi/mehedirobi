@@ -37,9 +37,9 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a> |
   <a href="https://your-portfolio-link.vercel.app" target="_blank">Portfolio</a> |
-  <a href="mailto:mehedirobi.dev@gmail.com">Email</a>
+  <a href="mailto:mehedirobidev@gmail.com">Email</a>
 </p>
 
 ---
