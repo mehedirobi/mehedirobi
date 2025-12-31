@@ -41,19 +41,3 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
   <a href="https://your-portfolio-link.vercel.app" target="_blank">Portfolio</a> |
   <a href="mailto:mehedirobidev@gmail.com">Email</a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehedirobi" />
-</p>
