@@ -1,5 +1,5 @@
-<h1 align="center">Hi,</h1>
-<h3 align="center">Seeking for a developer?</h3>
+<h3 align="center">Hi,</h3>
+<h2 align="center">Seeking for a developer?</h2>
 <h2 align="center">Mehedi Robi is here</h2>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
