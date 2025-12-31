@@ -59,9 +59,3 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mehedirobi" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-I love learning new technologies and building projects that solve real-world problems 🚀
