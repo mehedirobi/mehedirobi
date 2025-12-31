@@ -28,26 +28,7 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
 
 ---
 
-## 🛠 Skills
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
-</p>
-
-- **HTML5 & CSS3** – Semantic markup, accessible structure, and responsive layouts  
-- **Tailwind CSS** – Utility-first styling, custom components, and responsive UI design  
-- **JavaScript (ES6+)** – DOM manipulation, asynchronous programming, and clean logic  
-- **React.js** – Component-based architecture, hooks, state management, reusable UI  
-- **Next.js** – File-based routing, SSR fundamentals, optimized performance, and SEO-ready pages  
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-- **Git** – Version control, branching, and collaborative workflows  
-- **GitHub** – Repository management, clean commits, README documentation, and project showcasing  
+## 🛠 Skills <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github" /> </p>
 
 
 ---
