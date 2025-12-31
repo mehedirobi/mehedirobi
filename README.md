@@ -1,43 +1,67 @@
-<h4 align="center">Hi,</h4>
-<h3 align="center">Seeking for a developer??</h3>
-<h1 align="center">🏆Mehedi Robi is here🏆</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
+<!-- Banner -->
+<img src="https://i.ibb.co.com/TDcwwZmh/Banner-img.png" width="100%" />
+
+<h2 align="center">Hi 👋, I'm Mehedi Hasan</h2>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="center">
-  📍 Bangladesh <br/>
-  📧 <a href="mailto:mehedirobi.dev@gmail.com">mehedirobi.dev@gmail.com</a>
+  📍 Dhaka, Bangladesh <br/>
+  📧 <a href="mailto:mehdixhasn@gmail.com">mehedirobidev@gmail.com</a>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I’m a passionate Frontend Web Developer from Bangladesh.  
-Currently pursuing a Diploma in Computer Science & Technology (CST) and focused on building modern, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into real-world projects using clean code and modern technologies.
+I am a passionate Frontend Web Developer from Bangladesh and a Diploma student in Computer Science & Technology (CST).  
+I enjoy building clean, responsive, and user-friendly web applications using modern frontend technologies.  
+Currently, I am focused on strengthening my JavaScript fundamentals and exploring modern frameworks.
 
 ---
 
 ## 🚀 Current Activities
 
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🔨 Working on a **Tourism Website** project  
-- 🎯 Practicing **JavaScript & Problem Solving**  
-- 📚 Learning advanced **Frontend development best practices**
+- 🌱 Exploring **Next.js** and advanced React concepts  
+- 💻 Working on a **Tourism Website** project  
+- 🧠 Practicing **JavaScript & problem-solving** regularly  
+- 📚 Improving frontend development best practices  
 
 ---
 
-## 🛠 Skills 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github" /> </p>
+## 🛠️ Skills
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a> |
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">Portfolio</a> |
-  <a href="mailto:mehedirobidev@gmail.com">Email</a>
+<p>
+  🔗 <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a><br/>
+  🌐 <a href="https://github.com/mehdixun" target="_blank">GitHub</a><br/>
+  🌐 <a href="https://x.com/mehedirobi01" target="_blank">Twitter</a><br/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact" />
 </p>
