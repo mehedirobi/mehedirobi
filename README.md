@@ -28,7 +28,8 @@ I enjoy turning ideas into real-world projects using clean code and modern techn
 
 ---
 
-## 🛠 Skills <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github" /> </p>
+## 🛠 Skills 
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github" /> </p>
 
 
 ---
