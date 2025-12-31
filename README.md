@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh <br/>
+  📍 Bangladesh <br/>
   📧 <a href="mailto:mehedirobi.dev@gmail.com">mehedirobi.dev@gmail.com</a>
 </p>
 
