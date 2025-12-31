@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mehedi Robi</h1>
+<h1 align="center">Hi</h1>
+<h1 align="center">Seeking for a developer?</h1>
+<h1 align="center">Mehedi Robi is here</h1>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
