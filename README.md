@@ -55,13 +55,13 @@ Currently, I am focused on strengthening my JavaScript fundamentals and explorin
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedirobi" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact" />
 </p>
