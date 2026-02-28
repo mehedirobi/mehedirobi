@@ -1,101 +1,85 @@
 <!-- Banner -->
 <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" width="100%" />
 
-<h1 align="center">Mehedi Hasan</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
+<h4 align="center">Hello 👋</h4>  
+<h3 align="center">Looking for a Frontend Developer?</h3>
+<h1 align="center">🏆 Mehedi Hasan 🏆</h1>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh  
-  📧 <a href="mailto:mehedirobidev@gmail.com">mehedirobidev@gmail.com</a>  
-  🔗 <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/mehdixun" target="_blank">GitHub</a> • 
-  <a href="https://x.com/mehedirobi01" target="_blank">Twitter</a>
+  📍 Dhaka, Bangladesh <br/>
+  📧 <a href="mailto:mehedirobidev@gmail.com">mehedirobidev@gmail.com</a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🙋‍♂️ About Me
 
-Frontend Web Developer specializing in building responsive, scalable, and performance-optimized web applications using modern JavaScript ecosystems.  
+I am a dedicated Frontend Web Developer from Bangladesh and currently pursuing a Diploma in Computer Science & Technology (CST).  
 
-Currently pursuing a Diploma in Computer Science & Technology (CST), with strong focus on React architecture, component-driven development, and clean UI implementation.
+I specialize in building clean, responsive, and user-focused web applications using modern frontend technologies.  
 
-I prioritize:
-- Maintainable and modular code structure
-- Responsive and accessible UI
-- Performance optimization
-- Modern development workflows
+My focus is on writing maintainable code, creating reusable components, and delivering optimized user experiences.
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Current Activities
 
-- Deep diving into **Next.js (App Router, SSR, Performance Optimization)**
-- Strengthening **Core JavaScript & ES6+ Concepts**
-- Building real-world scalable frontend projects
-- Improving UI/UX implementation consistency
-- Practicing problem-solving and clean code principles
+- 🌱 Learning and exploring **Next.js** (App Router & performance optimization)  
+- 💻 Developing a **Tourism Website** project  
+- 🧠 Strengthening **JavaScript (ES6+) fundamentals & problem-solving**  
+- 📚 Improving frontend architecture and best practices  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Skills
 
-### 🔹 Frontend Development
-<p>
+### Frontend
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
 </p>
 
-- HTML5 (Semantic Markup)
-- CSS3 (Flexbox, Grid, Responsive Design)
-- Tailwind CSS & Bootstrap
-- JavaScript (ES6+)
-- React.js (Hooks, Component Architecture)
-- Next.js (Routing, SSR Basics)
+- HTML5 (Semantic Structure)  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- Tailwind CSS & Bootstrap  
+- JavaScript (ES6+)  
+- React.js (Hooks, Component-Based Architecture)  
+- Next.js (Routing & SSR Basics)
 
 ---
 
-### 🔹 Tools & Workflow
-<p>
+### Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-- Git & GitHub (Version Control)
-- VS Code
-- Figma (UI Collaboration)
-- Responsive Debugging & Browser DevTools
+- Git & GitHub (Version Control)  
+- VS Code  
+- Figma  
+- Browser DevTools  
 
 ---
 
-## 📌 Development Focus
+## 🌐 Connect With Me
 
-- Component-based architecture
-- Clean folder structure
-- Reusable UI components
-- API integration (REST basics)
-- Git-based workflow management
+<p align="left">
+  🔗 <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">LinkedIn</a><br/>
+  🌐 <a href="https://github.com/mehdixun" target="_blank">GitHub</a><br/>
+  🐦 <a href="https://x.com/mehedirobi01" target="_blank">Twitter (X)</a><br/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&theme=default" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedirobi" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact" />
 </p>
-
----
-
-## 🎯 Career Objective
-
-To contribute as a frontend developer in a growth-oriented environment where I can apply modern web technologies, write scalable code, and continuously improve through real-world challenges.
-
----
-
-⭐ Open to collaboration, freelance opportunities, and frontend development roles.
