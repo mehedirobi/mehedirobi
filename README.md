@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" width="100%" />
 
 <h4 align="center">Hi 👋</h4>  
-<h3 align="center">Hi 👋</h3>
+<h3 align="center">Seeking for a Developer??</h3>
 <h2 align="center">🏆 Mehedi Is Here 🏆</h2>
 <h3 align="center">Frontend Web Developer</h3>
 
