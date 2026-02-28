@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" width="100%" />
 
-<h4 align="center">Hello 👋</h4>  
+<h4 align="center">Hi,</h4>  
 <h3 align="center">Seeking for a Frontend Developer??</h3>
 <h1 align="center">🏆 Mehedi Robi Is Here 🏆</h1>
 <h3 align="center">Frontend Web Developer</h3>
