@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" width="100%" />
+<p align="center">
+  <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" style="width:100%; height:auto;" alt="Mehedi Robi Banner"/>
+</p>
 
 <h1 align="center">Hi 👋 I'm Mehedi Robi</h1>
 <h3 align="center">Frontend Web Developer</h3>
