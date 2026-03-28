@@ -28,20 +28,16 @@ Building modern, responsive, and user-focused web applications using React and m
 
 ## 👨‍💻 About Me
 
-Frontend Developer focused on building modern, scalable, and user-centric web applications.
+Frontend Developer building modern, scalable, and user-friendly web applications with JavaScript and React.
 
-I work primarily with JavaScript and React, creating clean, responsive interfaces with a strong emphasis on performance, maintainability, and real-world usability.
+Experienced in full-stack projects like marketplaces and community platforms, handling frontend and backend integration.
 
-I have experience building full-stack projects such as marketplaces and community-driven platforms, handling both frontend and backend integration.
-
-Core strengths:
+Core skills:
 • JavaScript, React, Tailwind CSS
 • Clean, maintainable code & reusable components
 • Performance optimization & responsive design
 
-Currently focused on growing as a full-stack developer and building production-ready applications.
-
-Open to opportunities and collaborations.
+Focused on growing as a full-stack developer and building production-ready applications. Open to opportunities and collaborations.
 
 
 ---
