@@ -1,173 +1,112 @@
-# Mehedi Robi - Frontend Web Developer
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" style="width:100%; height:auto;" alt="Mehedi Robi Banner"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Robi;Frontend+Web+Developer;Building+Modern+Web+Apps" alt="Typing Animation" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehdixun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" alt="Mehedi Robi Banner" width="100%" />
+Building modern, responsive, and user-focused web applications using React and modern JavaScript.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mehdixun"><img src="https://img.shields.io/github/stars/mehdixun?style=for-the-badge" alt="GitHub stars"/></a>
-  <a href="https://github.com/mehdixun"><img src="https://img.shields.io/github/forks/mehdixun?style=for-the-badge" alt="GitHub forks"/></a>
-  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"/>
+📍 Dhaka, Bangladesh <br/>
+📧 <a href="mailto:mehedirobidev@gmail.com">mehedirobidev@gmail.com</a>
 </p>
 
 ---
 
-## 🧩 Project Overview
+## 👨‍💻 About Me
 
-<<<<<<< HEAD
-Frontend Developer building clean, scalable, and user-friendly web applications with React and modern JavaScript.
+> I am a **Frontend Web Developer** from Bangladesh and currently pursuing a **Diploma in Computer Science & Technology (CST)**.
 
-Experienced in real-world projects, creating responsive interfaces, reusable components, and optimized performance.
+> I specialize in building **clean, responsive, and user-focused web applications** using modern frontend technologies.
 
-Tech Stack: JavaScript, React, Tailwind CSS, REST APIs
-=======
-**Profile repository for a frontend engineer focused on modern, accessible, and scalable web apps.**
-
-- React + Next.js proficiency
-- Component-first and standard-based design
-- Clean UI, responsive UX, performance-first metrics
-- Maintainability, testing-ready architecture, developer experience
->>>>>>> 7d83fc6 (updated)
-
-
-## ✨ Core Highlights
-
-- Modern JavaScript (ES6+), clean React patterns
-- Responsive UI with Tailwind/Bootstrap
-- Optimized performance and accessibility (a11y)
-- Git-based workflow and CI-ready conventions
-- Real-world project delivery pipeline from design to deploy
+> My focus is on writing **maintainable code, reusable components, and optimized user experiences**.
 
 ---
 
-## 📦 Features
+## 🚀 Current Activities
 
-- Semantic HTML and scalable component structure
-- Responsive layout for mobile/tablet/desktop
-- Dynamic routes and API integration with Next.js
-- Reusable component library and UI state patterns
-- Accessibility-first interactions and keyboard support
-- Test-ready infrastructure with lint/format hooks
+- 🌱 Learning **Next.js** and modern React architecture  
+- 💻 Building a **Tourism Website** project  
+- 🧠 Strengthening **JavaScript (ES6+) fundamentals**  
+- ⚡ Improving **frontend performance and best practices**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer | Tools |
-|------|-------|
-| UI | React, Next.js, Tailwind CSS, Bootstrap |
-| JavaScript | ES6+, JSX, Fetch API, Axios |
-| Version Control | Git, GitHub |
-| Editor | VS Code |
-| Design | Figma |
-| CI/CD (suggested) | GitHub Actions |
-| Deployment (suggested) | Vercel, Netlify |
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+</p>
+
+- HTML5 (Semantic Structure)  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- Tailwind CSS & Bootstrap  
+- JavaScript (ES6+)  
+- React.js (Hooks, Component-Based Architecture)  
+- Next.js (Routing & SSR Basics)
 
 ---
 
-## 🚀 Installation
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-```bash
-# Clone the repository
-git clone https://github.com/mehdixun/<repo-name>.git
-cd <repo-name>
-
-# Install dependencies
-npm install
-# or
-yarn install
-
-# Optional
-pnpm install
-```
+- Git & GitHub (Version Control)  
+- VS Code  
+- Figma  
+- Browser DevTools  
 
 ---
 
-## ▶️ Development (Usage)
+## 🏆 GitHub Trophies
 
-```bash
-# Start local development server
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open `http://localhost:3000`.
-
-```bash
-# Build for production
-npm run build
-# Start production preview
-npm run start
-```
-
-### Suggested commands
-
-- `npm run lint` – code style checks
-- `npm run test` – unit/integration tests
-- `npm run format` – Prettier formatting
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehdixun&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📸 Demo / Screenshots
+## 🌐 Connect With Me
 
-- Add screenshots:
-  - `screenshots/home.png`
-  - `screenshots/dashboard.png`
-  - `screenshots/mobile-view.png`
-- Optional demo GIF:
-  - `assets/demo/interactive-demo.gif`
-
-> Suggested: add a GIF for key workflow (e.g., form process, routing, CRUD actions).
-
----
-
-## 🧩 UI/UX Enhancements (Optional)
-
-- Use syntax-highlighted code snippets for key architecture patterns
-- Add Lottie animation to onboarding or feature highlights
-- Use clean separators (`---`, `════════`) in long docs
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehedi-robi-76b38739b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mehdixun" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/mehedirobi01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Contributing
+## 📊 GitHub Stats
 
-1. Fork repository
-2. Create `feature/<name>` branch
-3. Commit with clear message:
-   - `git commit -m "feat: add responsive nav menu"`
-4. Push and open PR
-5. Add tests and update docs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-### Contributing etiquette
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- Follow existing code style
-- Open GitHub Issue for scope discussion
-- Use descriptive PR titles and summaries
-
----
-
-## 📬 Contact
-
-- Email: mehedirobidev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mehedi-robi-76b38739b/
-- GitHub: https://github.com/mehdixun
-- X (Twitter): https://x.com/mehedirobi01
-
----
-
-## 📜 License
-
-`MIT License`
-
----
-
-## 💡 Notes for recruiters / developers
-
-- Focus: ship polished UI quickly
-- Experience: collaborate with designers and product owners
-- Delivery: accessible, maintainable, testable code
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
