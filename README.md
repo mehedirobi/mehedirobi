@@ -28,11 +28,9 @@ Building modern, responsive, and user-focused web applications using React and m
 
 ## 👨‍💻 About Me
 
-> I am a **Frontend Web Developer** from Bangladesh and currently pursuing a **Diploma in Computer Science & Technology (CST)**.
-
-> I specialize in building **clean, responsive, and user-focused web applications** using modern frontend technologies.
-
-> My focus is on writing **maintainable code, reusable components, and optimized user experiences**.
+Frontend Developer building clean, scalable, and user-friendly web applications with React and modern JavaScript.
+Experienced in real-world projects, creating responsive interfaces, reusable components, and optimized performance.
+Tech Stack: JavaScript, React, Tailwind CSS, REST APIs
 
 ---
 
