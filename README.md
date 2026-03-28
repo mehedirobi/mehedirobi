@@ -28,13 +28,16 @@ Building modern, responsive, and user-focused web applications using React and m
 
 ## 👨‍💻 About Me
 
-> I am a **Frontend Web Developer** from Bangladesh and currently pursuing a **Diploma in Computer Science & Technology (CST)**.
-
-> I specialize in building **clean, responsive, and user-focused web applications** using modern frontend technologies.
-
-> My focus is on writing **maintainable code, reusable components, and optimized user experiences**.
-
----
+I am a passionate Web Developer focused on building modern, scalable, and user-centric applications. I enjoy turning real-world ideas into functional digital products with clean architecture and efficient performance.
+My core expertise lies in JavaScript, React, and modern frontend development, with growing experience in full-stack solutions. I prioritize writing clean, maintainable code and following industry best practices to ensure long-term scalability.
+I have worked on projects such as marketplaces and community-driven platforms, where I handled both frontend interfaces and backend integrations. These experiences helped me understand how to design intuitive user experiences while maintaining performance and reliability.
+What I bring:
+Strong foundation in HTML, CSS, Tailwind, JavaScript
+Experience with React and modern frontend workflows
+Focus on clean code, reusable components, and performance optimization
+Ability to build real-world projects from idea to deployment
+Currently, I am focused on sharpening my full-stack development skills and building production-ready applications that solve real problems.
+I am open to opportunities, collaborations, and learning from experienced developers in the industry.
 
 ## 🚀 Current Activities
 
