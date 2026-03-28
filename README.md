@@ -34,8 +34,6 @@ Experienced in real-world projects, creating responsive interfaces, reusable com
 
 Tech Stack: JavaScript, React, Tailwind CSS, REST APIs
 
-Open to junior developer or freelance opportunities.
-
 
 ## 🚀 Current Activities
 
