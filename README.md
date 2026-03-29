@@ -19,7 +19,7 @@
   />
 </p>
 
-<h2 align="center">Frontend Web Developer</h2>
+<h2 align="center">React Frontend Web Developer</h2>
 
 <p align="center">
   Building modern, responsive, and user-focused web applications using React and modern JavaScript.
