@@ -34,8 +34,10 @@
 
 ## 👨‍💻 About Me
 
-- Frontend Developer building modern, scalable, and user-friendly web applications with JavaScript and React  
-- Experienced in full-stack projects like marketplaces and community platforms, handling frontend and backend integration  
+I am a React Frontend Developer focused on building scalable, high-performance web applications.
+I work with JavaScript, React, and Tailwind CSS, and have basic knowledge of the MERN stack for backend integration.
+I prioritize clean, maintainable code, reusable components, and modern UI/UX, and I am continuously improving my skills through real-world projects.
+
 
 ### Core Skills
 - JavaScript, React, Tailwind CSS  
