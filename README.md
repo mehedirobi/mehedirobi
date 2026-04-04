@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/JRWP9PF6/Banner-img-mehedirobi.png" alt="Mehedi Robi Banner" width="100%" />
+  <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" alt="Mehedi Robi Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
