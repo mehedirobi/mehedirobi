@@ -19,7 +19,7 @@
   />
 </p>
 
-<h2 align="center">Frontend Developer (React.js) | Building Scalable Web Applications</h2>
+<h2 align="center">Frontend Developer (React) | Aspiring Full Stack Developer</h2>
 
 <p align="center">
   Building modern, responsive, and high-performance web applications using React.js and modern JavaScript ecosystem.
@@ -63,7 +63,7 @@ Currently expanding my skills in full-stack development (MERN) and modern framew
 - Tailwind CSS & Bootstrap  
 - JavaScript (ES6+ Features)  
 - React.js (Hooks, State Management, Component Architecture)  
-- Next.js (Routing, SSR, App Router Fundamentals)  
+- Next.js (Basic)  
 
 ---
 
