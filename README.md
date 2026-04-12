@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Mehedi+Robi;Frontend+Web+Developer;Building+Modern+Web+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Focused+on+Clean+%26+Modern+UI" 
     alt="Typing Animation" 
   />
 </p>
@@ -19,10 +19,10 @@
   />
 </p>
 
-<h2 align="center">React Frontend Web Developer</h2>
+<h2 align="center">Frontend Developer (React.js) | Building Scalable Web Applications</h2>
 
 <p align="center">
-  Building modern, responsive, and user-focused web applications using React and modern JavaScript.
+  Building modern, responsive, and high-performance web applications using React.js and modern JavaScript ecosystem.
 </p>
 
 <p align="center">
@@ -34,18 +34,20 @@
 
 ## 👨‍💻 About Me
 
-I am a React Frontend Developer focused on building scalable, high-performance web applications.
-I work with JavaScript, React, and Tailwind CSS, and have basic knowledge of the MERN stack for backend integration.
-I prioritize clean, maintainable code, reusable components, and modern UI/UX, and I am continuously improving my skills through real-world projects. 
+I am a Frontend Developer specializing in React.js and modern JavaScript ecosystems.
+
+I build responsive, scalable, and performance-focused web applications with a strong focus on clean architecture, reusable components, and modern UI/UX principles.
+
+Currently expanding my skills in full-stack development (MERN) and modern frameworks like Next.js, while actively building real-world projects.
 
 ---
 
-## 🚀 Current Activities
+## 🚀 Current Focus
 
-- 🌱 Learning **Next.js** and modern React architecture  
-- 💻 Building a **Tourism Website** project  
-- 🧠 Strengthening **JavaScript (ES6+) fundamentals**  
-- ⚡ Improving **frontend performance and best practices**  
+- 🌱 Learning **Next.js (App Router, SSR, Performance Optimization)**
+- 💻 Building a **real-world tourism web application**
+- 🧠 Strengthening **advanced JavaScript (ES6+, async/await, closures)**
+- ⚡ Improving **frontend architecture & scalability patterns**
 
 ---
 
@@ -56,12 +58,12 @@ I prioritize clean, maintainable code, reusable components, and modern UI/UX, an
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
 </p>
 
-- HTML5 (Semantic Structure)  
+- HTML5 (Semantic & Accessible Structure)  
 - CSS3 (Flexbox, Grid, Responsive Design)  
 - Tailwind CSS & Bootstrap  
-- JavaScript (ES6+)  
-- React.js (Hooks, Component-Based Architecture)  
-- Next.js (Routing & SSR Basics)  
+- JavaScript (ES6+ Features)  
+- React.js (Hooks, State Management, Component Architecture)  
+- Next.js (Routing, SSR, App Router Fundamentals)  
 
 ---
 
@@ -70,10 +72,25 @@ I prioritize clean, maintainable code, reusable components, and modern UI/UX, an
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-- Git & GitHub (Version Control)  
+- Git & GitHub (Version Control & Collaboration)  
 - VS Code  
-- Figma  
-- Browser DevTools  
+- Figma (UI/UX Design)  
+- Chrome DevTools  
+
+---
+
+## 📌 Focus Areas
+
+- Building production-ready full-stack applications  
+- React + Next.js scalable architectures  
+- REST API integration & state management  
+- Performance optimization & clean code practices  
+
+---
+
+## 📂 Featured Projects
+
+Check my pinned repositories below for real-world applications including full-stack, frontend systems, and dashboard projects.
 
 ---
 
