@@ -1,28 +1,26 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" alt="Mehedi Robi Banner" width="100%" />
+  <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Focused+on+Clean+%26+Modern+UI" 
-    alt="Typing Animation" 
   />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=mehdixun&label=Profile%20Views&color=0E75B6&style=flat" 
-    alt="Profile Views" 
+    src="https://komarev.com/ghpvc/?username=mehdixun&label=Profile%20Views&color=0E75B6&style=flat"
   />
 </p>
 
-<h2 align="center">Frontend Developer (React) | Aspiring Full Stack Developer</h2>
+<h2 align="center">Frontend Developer (React.js) | Full-Stack (MERN) Enthusiast</h2>
 
 <p align="center">
-  Building modern, responsive, and high-performance web applications using React.js and modern JavaScript ecosystem.
+  Building modern, responsive, and high-performance web applications using React and modern JavaScript ecosystems.
 </p>
 
 <p align="center">
@@ -34,16 +32,20 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer specializing in React and JavaScript, focused on building modern, responsive, and high-performance web applications. Proficient in HTML, CSS, and Tailwind CSS with a strong emphasis on clean UI and user experience. Currently expanding into full stack development. Open to internship and junior frontend opportunities.
+Frontend Developer specializing in React.js and modern JavaScript ecosystems. I focus on building scalable, responsive, and production-ready web applications with clean architecture, reusable components, and strong user experience principles.
+
+Currently expanding into full-stack development (MERN) and modern frameworks like Next.js while actively building real-world projects.
+
+Actively seeking internship and junior frontend opportunities.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🌱 Learning **Next.js (App Router, SSR, Performance Optimization)**
-- 💻 Building a **real-world tourism web application**
-- 🧠 Strengthening **advanced JavaScript (ES6+, async/await, closures)**
-- ⚡ Improving **frontend architecture & scalability patterns**
+- 🌱 Next.js (App Router, SSR, Performance Optimization)
+- 💻 Real-world full-stack application development
+- 🧠 Advanced JavaScript (ES6+, async patterns, architecture)
+- ⚡ Scalable frontend systems & performance optimization
 
 ---
 
@@ -54,12 +56,12 @@ Frontend Developer specializing in React and JavaScript, focused on building mod
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
 </p>
 
-- HTML5 (Semantic & Accessible Structure)  
-- CSS3 (Flexbox, Grid, Responsive Design)  
-- Tailwind CSS & Bootstrap  
-- JavaScript (ES6+ Features)  
-- React.js (Hooks, State Management, Component Architecture)  
-- Next.js (Basic)  
+- HTML5 (Semantic structure)
+- CSS3 (Flexbox, Grid, Responsive design)
+- Tailwind CSS & Bootstrap
+- JavaScript (ES6+)
+- React.js (Hooks, State management, Component architecture)
+- Next.js (Fundamentals)
 
 ---
 
@@ -68,25 +70,25 @@ Frontend Developer specializing in React and JavaScript, focused on building mod
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-- Git & GitHub (Version Control & Collaboration)  
-- VS Code  
-- Figma (UI/UX Design)  
-- Chrome DevTools  
+- Git & GitHub (Version control)
+- VS Code
+- Figma (UI/UX)
+- Chrome DevTools
 
 ---
 
 ## 📌 Focus Areas
 
-- Building production-ready full-stack applications  
-- React + Next.js scalable architectures  
-- REST API integration & state management  
-- Performance optimization & clean code practices  
+- Full-stack (MERN) application development
+- React + Next.js scalable architecture
+- REST API integration & state handling
+- Performance optimization & clean code practices
 
 ---
 
 ## 📂 Featured Projects
 
-Check my pinned repositories below for real-world applications including full-stack, frontend systems, and dashboard projects.
+Check my pinned repositories for real-world applications including full-stack systems, dashboards, and frontend projects.
 
 ---
 
@@ -94,8 +96,7 @@ Check my pinned repositories below for real-world applications including full-st
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=mehdixun&theme=radical&no-frame=true&no-bg=true&margin-w=6" 
-    alt="GitHub Trophies" 
+    src="https://github-profile-trophy.vercel.app/?username=mehdixun&theme=radical&no-frame=true&no-bg=true&margin-w=6"
   />
 </p>
 
@@ -120,19 +121,10 @@ Check my pinned repositories below for real-world applications including full-st
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&theme=radical&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&theme=radical&hide_border=true" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&theme=radical&hide_border=true" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
