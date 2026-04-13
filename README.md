@@ -17,7 +17,7 @@
   />
 </p>
 
-<h2 align="center">Frontend Developer (React.js) | Full-Stack (MERN) Enthusiast</h2>
+<h2 align="center">Frontend Developer (React) | Aspiring Full Stack Developer</h2>
 
 <p align="center">
   Building modern, responsive, and high-performance web applications using React and modern JavaScript ecosystems.
