@@ -34,11 +34,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Frontend Developer specializing in React.js and modern JavaScript ecosystems.
-
-I build responsive, scalable, and performance-focused web applications with a strong focus on clean architecture, reusable components, and modern UI/UX principles.
-
-Currently expanding my skills in full-stack development (MERN) and modern frameworks like Next.js, while actively building real-world projects.
+Frontend Developer specializing in React and JavaScript, focused on building modern, responsive, and high-performance web applications. Proficient in HTML, CSS, and Tailwind CSS with a strong emphasis on clean UI and user experience. Currently expanding into full stack development. Open to internship and junior frontend opportunities.
 
 ---
 
