@@ -6,46 +6,35 @@
 <!-- Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Focused+on+Clean+%26+Modern+UI" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Focused+on+Clean+%26+Modern+UI"
   />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=mehdixun&label=Profile%20Views&color=0E75B6&style=flat"
-  />
-</p>
-
-<h2 align="center">Frontend Developer (React) | Aspiring Full Stack Developer</h2>
-
-<p align="center">
-  Building modern, responsive, and high-performance web applications using React and modern JavaScript ecosystems.
-</p>
-
-<p align="center">
-  📍 Dhaka, Bangladesh &nbsp;•&nbsp;
-  📧 <a href="mailto:mehedirobidev@gmail.com">mehedirobidev@gmail.com</a>
+  <img src="https://komarev.com/ghpvc/?username=mehdixun&label=Profile%20Views&color=0E75B6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Frontend Developer specializing in React.js and modern JavaScript ecosystems. I focus on building scalable, responsive, and production-ready web applications with clean architecture, reusable components, and strong user experience principles.
+Frontend Developer specializing in React.js and modern JavaScript ecosystems.  
+Focused on building scalable, responsive, and production-ready web applications with clean architecture and strong UX principles.
 
-Currently expanding into full-stack development (MERN) and modern frameworks like Next.js while actively building real-world projects.
+Currently expanding into **Full Stack (MERN)** and **Next.js** while actively building real-world projects.
 
-Actively seeking internship and junior frontend opportunities.
+🎯 Actively seeking **Frontend / Junior Full Stack opportunities**
 
 ---
 
 ## 🚀 Current Focus
 
-- 🌱 Next.js (App Router, SSR, Performance Optimization)
-- 💻 Real-world full-stack application development
-- 🧠 Advanced JavaScript (ES6+, async patterns, architecture)
-- ⚡ Scalable frontend systems & performance optimization
+- Next.js (App Router, SSR, Performance)
+- Scalable frontend architecture
+- Advanced JavaScript (ES6+, async patterns)
+- Full-stack MERN applications
+- UI performance & optimization
 
 ---
 
@@ -56,12 +45,7 @@ Actively seeking internship and junior frontend opportunities.
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
 </p>
 
-- HTML5 (Semantic structure)
-- CSS3 (Flexbox, Grid, Responsive design)
-- Tailwind CSS & Bootstrap
-- JavaScript (ES6+)
-- React.js (Hooks, State management, Component architecture)
-- Next.js (Fundamentals)
+HTML5 • CSS3 • Tailwind CSS • Bootstrap • JavaScript (ES6+) • React.js • Next.js
 
 ---
 
@@ -70,35 +54,27 @@ Actively seeking internship and junior frontend opportunities.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-- Git & GitHub (Version control)
-- VS Code
-- Figma (UI/UX)
-- Chrome DevTools
+Git • GitHub • VS Code • Figma • DevTools
 
 ---
 
-## 📌 Focus Areas
+## 📌 Core Strengths
 
-- Full-stack (MERN) application development
-- React + Next.js scalable architecture
-- REST API integration & state handling
-- Performance optimization & clean code practices
+- Component-based architecture (React)
+- REST API integration
+- State management
+- Responsive UI development
+- Clean, maintainable code structure
 
 ---
 
 ## 📂 Featured Projects
 
-Check my pinned repositories for real-world applications including full-stack systems, dashboards, and frontend projects.
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mehdixun&theme=radical&no-frame=true&no-bg=true&margin-w=6"
-  />
-</p>
+Pinned repositories showcase:
+- Full-stack applications
+- Admin dashboards
+- React-based UI systems
+- Real-world production projects
 
 ---
 
@@ -106,13 +82,13 @@ Check my pinned repositories for real-world applications including full-stack sy
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/mehedirobi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:mehedirobidev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/mehedirobii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/mehedixun">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
