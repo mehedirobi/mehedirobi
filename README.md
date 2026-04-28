@@ -18,22 +18,22 @@
 
 ## 👨‍💻 Profile
 
-Frontend Developer focused on **React.js** and modern JavaScript ecosystems.
+Frontend Developer specializing in **React.js** and modern JavaScript ecosystems, focused on building scalable, responsive, and high-performance web applications.
 
-I build **scalable, maintainable, and production-ready web applications** with strong attention to UI architecture, performance, and user experience.
+Strong focus on clean UI architecture, performance optimization, and delivering smooth user experiences with maintainable frontend systems.
 
-Currently expanding into **Full Stack (MERN)** and **Next.js**, actively developing real-world projects.
+Currently expanding into **Full Stack development (MERN)** and **Next.js**, while actively building real-world projects to strengthen practical engineering skills.
 
 ---
 
 ## ⚙️ Focus Areas
 
-- React.js & Component Architecture
-- Next.js (SSR, App Router, Performance)
-- REST API Integration
-- Scalable Frontend Systems
-- UI Performance & Responsiveness
-- Clean Code & Reusable Patterns
+- React.js & Component Architecture  
+- Next.js (SSR, App Router, Performance Optimization)  
+- REST API Integration & Async Data Flow  
+- Scalable Frontend System Design  
+- Responsive UI (Mobile-First Approach)  
+- Clean Code & Reusable Patterns  
 
 ---
 
@@ -63,11 +63,11 @@ Git • GitHub • VS Code • Figma
 
 ## 💡 Core Strengths
 
-- Scalable React component design
-- REST API integration & async data flow
-- Responsive UI development (mobile-first)
-- Clean architecture & reusable code patterns
-- Performance-focused frontend development
+- Modular and scalable React component design  
+- REST API integration with clean async handling  
+- Mobile-first responsive UI development  
+- Maintainable architecture & reusable patterns  
+- Performance-focused frontend optimization  
 
 ---
 
@@ -75,12 +75,12 @@ Git • GitHub • VS Code • Figma
 
 Selected work includes:
 
-- Full-stack MERN applications
-- Admin dashboards & UI systems
-- React-based production projects
-- API-driven web applications
+- Full-stack MERN applications  
+- Admin dashboards & UI systems  
+- React-based production projects  
+- API-driven web applications  
 
-> Pinned repositories showcase real-world implementation skills.
+> Pinned repositories represent real-world development experience.
 
 ---
 
