@@ -3,42 +3,41 @@
   <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" width="100%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Focused+on+Clean+%26+Modern+UI"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Clean+UI+%26+Modern+Web+Experiences"
   />
 </p>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehdixun&label=Profile%20Views&color=0E75B6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mehdixun&label=PROFILE+VIEWS&color=0E75B6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-Frontend Developer specializing in **React.js** and modern JavaScript ecosystems.  
-I focus on building **scalable, responsive, and production-ready** web applications with clean architecture and reusable components.
+Frontend Developer focused on **React.js** and modern JavaScript ecosystems.
 
-Currently expanding into **Full Stack (MERN)** and **Next.js**, actively building real-world projects with strong UI/UX focus.
+I build **scalable, maintainable, and production-ready web applications** with strong attention to UI architecture, performance, and user experience.
 
-**Actively seeking Frontend / Junior Full Stack opportunities**
-
----
-
-## 🚀 Current Focus
-
-- Next.js (App Router, SSR, Performance Optimization)
-- Scalable frontend architecture (Component-driven design)
-- Advanced JavaScript (ES6+, async patterns)
-- REST APIs & Full-stack MERN development
-- UI performance, responsiveness & optimization
+Currently expanding into **Full Stack (MERN)** and **Next.js**, actively developing real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Focus Areas
+
+- React.js & Component Architecture
+- Next.js (SSR, App Router, Performance)
+- REST API Integration
+- Scalable Frontend Systems
+- UI Performance & Responsiveness
+- Clean Code & Reusable Patterns
+
+---
+
+## 🧠 Tech Stack
 
 ### Frontend
 <p align="center">
@@ -46,60 +45,54 @@ Currently expanding into **Full Stack (MERN)** and **Next.js**, actively buildin
 </p>
 
 <p align="center">
-HTML5 • CSS3 • Tailwind CSS • Bootstrap • JavaScript (ES6+) • React.js • Next.js
+HTML • CSS • Tailwind • Bootstrap • JavaScript • React • Next.js
 </p>
 
 ---
 
-### Tools
+### Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 <p align="center">
-Git • GitHub • VS Code • Figma • DevTools
+Git • GitHub • VS Code • Figma
 </p>
 
 ---
 
-## 📌 Core Strengths
+## 💡 Core Strengths
 
-<p align="center">
-
-✔ Component-based React architecture  
-✔ REST API integration  
-✔ State management (React ecosystem)  
-✔ Responsive & mobile-first UI development  
-✔ Clean, scalable code structure  
-
-</p>
+- Scalable React component design
+- REST API integration & async data flow
+- Responsive UI development (mobile-first)
+- Clean architecture & reusable code patterns
+- Performance-focused frontend development
 
 ---
 
-## 📂 Featured Projects
+## 📌 Projects
 
-<p align="center">
+Selected work includes:
 
-Pinned repositories include:
-<br/>
-✔ Full-stack applications  
-✔ Admin dashboards  
-✔ React UI systems  
-✔ Production-level real-world projects  
+- Full-stack MERN applications
+- Admin dashboards & UI systems
+- React-based production projects
+- API-driven web applications
 
-</p>
+> Pinned repositories showcase real-world implementation skills.
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="mailto:mehedirobidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/mehedixun">
@@ -109,16 +102,16 @@ Pinned repositories include:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&theme=default&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&theme=default&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
