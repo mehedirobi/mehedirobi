@@ -1,30 +1,39 @@
 <!-- Banner -->
 <p align="center">
   <img 
-    src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" 
-    width="100%" 
-    alt="Mehedi Robi Banner" 
+    src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png"
+    alt="Mehedi Robi Banner"
+    width="100%"
+  />
+</p>
+
+<!-- Animated Intro -->
+<h1 align="center">Mehedi Robi</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer+(React);Building+Scalable+Web+Applications;Focused+on+Performance+%26+Clean+UI+Engineering"
+    alt="Typing Animation"
   />
 </p>
 
 <!-- Intro -->
-<h1 align="center">Mehedi Robi</h1>
-
 <p align="center">
-  Frontend Developer (React) building scalable, performance-focused web applications and clean UI experiences.
+  Frontend Developer specializing in React.js, scalable frontend architecture, and modern UI engineering.
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:mehedirobidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/mehdixun" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -32,13 +41,11 @@
 
 ## About Me
 
-I am a Frontend Developer specializing in JavaScript and React, focused on building modern, responsive, and production-ready web applications.
+Frontend Developer focused on building modern, responsive, and production-ready web applications using JavaScript and React.
 
-I develop clean, scalable user interfaces with a strong emphasis on performance, usability, and maintainable component architecture. My approach is centered on writing modular code and delivering seamless user experiences across devices.
+I develop scalable user interfaces with strong attention to performance, usability, and maintainable component architecture. My workflow emphasizes clean code, reusable systems, and seamless user experiences.
 
-I have hands-on experience building real-world projects such as dashboards, authentication-based applications, and dynamic UI systems. I focus on turning ideas into functional, well-structured products rather than just static interfaces.
-
-Currently, I am expanding into backend development with Node.js, Express.js, and MongoDB while actively progressing toward full-stack MERN development through project-based learning.
+Currently expanding into backend development with Node.js, Express.js, and MongoDB while progressing toward full-stack MERN development through real-world project building.
 
 ---
 
@@ -63,7 +70,7 @@ Currently, I am expanding into backend development with Node.js, Express.js, and
 </p>
 
 <p align="center">
-  Node.js • Express.js • MongoDB • Firebase • REST API
+  Node.js • Express.js • MongoDB • Firebase • REST APIs
 </p>
 
 ---
@@ -80,46 +87,46 @@ Currently, I am expanding into backend development with Node.js, Express.js, and
 
 ---
 
-## Core Focus
+## Current Focus
 
 - Scalable React applications
-- Clean and reusable component architecture
 - Modern responsive UI systems
-- REST API integration & async workflows
+- API integration & async workflows
+- Reusable component architecture
 - Performance-focused frontend development
-- Maintainable and production-ready codebases
+- Clean and maintainable codebases
 
 ---
 
-## Featured Work
+## Featured Projects
 
-- Modern React applications
-- Authentication-based systems
-- Admin dashboards & business interfaces
-- API-driven web applications
+- Authentication-based applications
+- Admin dashboards & business systems
+- API-driven frontend applications
 - MERN-based real-world projects
+- Modern React UI development
 
-> Featured repositories showcase practical development experience, scalable frontend architecture, and modern engineering practices.
+> Featured repositories reflect practical engineering experience and production-focused development practices.
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true" 
-    height="160" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117"
+    height="170"
   />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&hide_border=true" 
-    height="160" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    height="170"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&hide_border=true" 
-    height="160" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"
+    height="170"
   />
 </p>
