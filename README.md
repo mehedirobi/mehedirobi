@@ -7,43 +7,32 @@
   />
 </p>
 
-<!-- Animated Intro (Clean Minimal Style) -->
+<!-- Name -->
 <h1 align="center">Mehedi Robi</h1>
 
+<!-- Role Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;Focused+on+Clean+UI+%26+Performance+Engineering"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;UI+Engineering+%26+Performance+Focused"
   />
 </p>
 
+<!-- Short Identity -->
 <p align="center">
-  Frontend Developer (React) focused on scalable architecture, performance, and modern UI engineering.
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mehedirobidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/mehdixun" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
-  </a>
+  Frontend Developer focused on building scalable, production-ready web applications with modern UI architecture and performance optimization.
 </p>
 
 ---
 
 ## About Me
 
-I am a Frontend Developer specializing in React and JavaScript, focused on building modern and production-ready web applications. I develop scalable, responsive, and maintainable user interfaces with strong attention to performance and usability.
+Frontend Developer specializing in React.js and JavaScript, focused on building production-ready, scalable, and maintainable web applications.
 
-I have experience building dashboards, authentication systems, and dynamic UI applications using React, JavaScript (ES6+), Tailwind CSS, and REST APIs.
+I work on creating clean UI systems with a strong focus on performance, usability, and component-driven architecture. My approach emphasizes writing modular, reusable code that translates real-world requirements into functional products.
 
-Currently, I am expanding into backend development with Node.js, Express, and MongoDB to grow as a full-stack (MERN) developer.
+I have built multiple real-world applications including dashboards, authentication systems, and dynamic frontend applications using React, JavaScript (ES6+), Tailwind CSS, and REST APIs.
+
+Currently, I am expanding into backend development with Node.js, Express.js, and MongoDB, actively working toward becoming a full-stack (MERN) developer through project-based learning.
 
 ---
 
@@ -68,7 +57,7 @@ Currently, I am expanding into backend development with Node.js, Express, and Mo
 </p>
 
 <p align="center">
-  Node.js • Express.js • MongoDB • Firebase • REST API
+  Node.js • Express.js • MongoDB • Firebase • REST APIs
 </p>
 
 ---
@@ -85,24 +74,24 @@ Currently, I am expanding into backend development with Node.js, Express, and Mo
 
 ---
 
-## Core Expertise
+## Core Engineering Focus
 
-- Scalable React architecture
-- Component-based UI systems
-- REST API integration
-- Authentication-based applications
-- Performance optimization
-- Clean and maintainable codebases
+- Scalable React application architecture  
+- Component-driven UI systems  
+- REST API integration & async data flow  
+- Authentication & role-based applications  
+- Performance optimization techniques  
+- Clean, maintainable code structure  
 
 ---
 
-## Featured Work
+## Featured Projects
 
-- Full-stack MERN applications
-- Admin dashboards
-- Authentication systems
-- API-driven UI applications
-- Real-world frontend systems
+- Real-world React applications  
+- Authentication-based systems  
+- Admin dashboards & management tools  
+- API-driven frontend systems  
+- MERN stack practice projects  
 
 ---
 
