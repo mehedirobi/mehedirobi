@@ -26,13 +26,12 @@
 
 ## About Me
 
-Frontend Developer specializing in React.js and JavaScript, focused on building production-ready, scalable, and maintainable web applications.
+Frontend Developer specializing in React.js and JavaScript, focused on building modern, scalable, and maintainable web applications.
 
-I work on creating clean UI systems with a strong focus on performance, usability, and component-driven architecture. My approach emphasizes writing modular, reusable code that translates real-world requirements into functional products.
+Experienced in developing responsive user interfaces, reusable components, and API-driven applications with strong attention to performance, usability, and clean architecture.
 
-I have built multiple real-world applications including dashboards, authentication systems, and dynamic frontend applications using React, JavaScript (ES6+), Tailwind CSS, and REST APIs.
+Currently expanding into backend development with Node.js, Express.js, and MongoDB toward becoming a Full-Stack (MERN) Developer.
 
-Currently, I am expanding into backend development with Node.js, Express.js, and MongoDB, actively working toward becoming a full-stack (MERN) developer through project-based learning.
 
 ---
 
