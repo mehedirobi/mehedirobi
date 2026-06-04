@@ -1,3 +1,8 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     MEHEDI ROBI — GitHub Profile README
+     Optimized for: Frontend / Junior Full-Stack Developer Roles
+════════════════════════════════════════════════════════════════ -->
+
 <!-- Banner -->
 <p align="center">
   <img
@@ -7,130 +12,117 @@
   />
 </p>
 
+<!-- Name -->
 <h1 align="center">Mehedi Robi</h1>
 
-<h3 align="center">
-Frontend Developer | React.js & JavaScript
-</h3>
+<!-- Subtitle -->
+<h3 align="center">Frontend Developer · React.js & JavaScript</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-Building modern, scalable, responsive, and production-ready web applications with a focus on performance, maintainability, and user experience.
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+React+applications;Clean+architecture+%26+component-driven+UI;Expanding+into+Full-Stack+%28MERN%29+development"
+    alt="Role animation"
+  />
 </p>
 
+<!-- Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Developer%20Roles-0E75B6?style=flat-square" alt="Open to opportunities" />
+  <img
+    src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-0E75B6?style=flat-square&logoColor=white"
+    alt="Open to opportunities"
+  />
+  <img
+    src="https://img.shields.io/badge/Focus-React%20%7C%20MERN%20Stack-20B2AA?style=flat-square"
+    alt="Focus area"
+  />
 </p>
+
+<br />
 
 ---
 
-## About Me
+## About
 
-I am a Frontend Developer specializing in **React.js** and **JavaScript**, focused on building modern, scalable, and maintainable web applications.
+Frontend Developer specializing in **React.js** and **JavaScript (ES6+)**, focused on building
+scalable, maintainable, and production-ready web applications.
 
-My experience includes developing responsive user interfaces, reusable component architectures, and API-driven applications with strong attention to performance, accessibility, and clean code practices.
-
-Currently, I am expanding my backend expertise with **Node.js**, **Express.js**, and **MongoDB** as I progress toward becoming a Full-Stack MERN Developer.
+I work with component-driven architecture, REST API integration, and modern tooling to deliver
+clean user interfaces with real-world usability. Currently deepening my backend skills with
+**Node.js**, **Express.js**, and **MongoDB** on the path to full-stack MERN development.
 
 ---
 
 ## Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
-`HTML5` `CSS3` `JavaScript (ES6+)` `React.js` `Tailwind CSS`
+`HTML5` &nbsp;`CSS3` &nbsp;`JavaScript (ES6+)` &nbsp;`React.js` &nbsp;`Tailwind CSS`
 
-### Backend & Database
+<br />
+
+**Backend & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs`
+`Node.js` &nbsp;`Express.js` &nbsp;`MongoDB` &nbsp;`Firebase` &nbsp;`REST APIs`
 
-### Tools & Workflow
+<br />
+
+**Tooling & Workflow**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma" />
 </p>
 
-`Git` `GitHub` `VS Code` `Vite` `Figma`
-
----
-
-## Core Strengths
-
-- Responsive Web Development
-- Component-Based Architecture
-- REST API Integration
-- Reusable UI Development
-- Performance Optimization
-- Clean Code Practices
-- Git & GitHub Workflow
-- Accessibility Fundamentals
-- Problem Solving & Debugging
+`Git` &nbsp;`GitHub` &nbsp;`VS Code` &nbsp;`Vite` &nbsp;`Figma`
 
 ---
 
 ## Currently Building
 
-- Full-Stack MERN Applications
-- JWT Authentication & Authorization
-- Role-Based Access Control Systems
-- API-Driven Dashboards
-- Reusable Component Libraries
-- Scalable Frontend Architectures
-
----
-
-## Currently Learning
-
-- Backend Architecture
-- Database Design
-- Authentication & Security
-- Full-Stack Application Development
-- Advanced React Patterns
+- Full-stack MERN apps with **JWT authentication** and role-based access control
+- **API-integrated dashboards** with async data flow and optimistic UI patterns
+- Reusable component systems with consistent design tokens and Tailwind CSS
 
 ---
 
 ## Featured Projects
 
-### 🚀 Portfolio Website
+### [Portfolio Website](https://your-portfolio.com)
 
-Professional developer portfolio showcasing projects, skills, and experience with a modern and responsive user interface.
+Developer portfolio showcasing projects and technical skills with a responsive, animated interface.
 
-**Tech Stack:** React, Tailwind CSS, Framer Motion
-
-🔗 Live Demo: YOUR_LINK
-
-📂 Repository: YOUR_REPOSITORY
+**Stack:** React · Tailwind CSS · Framer Motion &nbsp;&nbsp; | &nbsp;&nbsp;
+[🔗 Live Demo](https://your-link.com) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
 
 ---
 
-### 🚀 Project Name
+### [Project Name](https://your-link.com)
 
-Short description explaining the problem solved, key features, and overall impact.
+_One clear sentence: what problem it solves and who it's for._
 
-**Tech Stack:** React, Firebase, Tailwind CSS
-
-🔗 Live Demo: YOUR_LINK
-
-📂 Repository: YOUR_REPOSITORY
+**Stack:** React · Node.js · Express.js · MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;
+[🔗 Live Demo](https://your-link.com) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
 
 ---
 
-### 🚀 Project Name
+### [Project Name](https://your-link.com)
 
-Short description explaining the problem solved, key features, and overall impact.
+_One clear sentence: what problem it solves and who it's for._
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+**Stack:** React · Firebase · Tailwind CSS &nbsp;&nbsp; | &nbsp;&nbsp;
+[🔗 Live Demo](https://your-link.com) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
 
-🔗 Live Demo: YOUR_LINK
+---
 
-📂 Repository: YOUR_REPOSITORY
+> 💡 Pin your 3 strongest repositories on your profile so they appear directly below this README.
 
 ---
 
@@ -138,44 +130,39 @@ Short description explaining the problem solved, key features, and overall impac
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    height="155"
     alt="GitHub Stats"
   />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&hide_border=true"
+    height="155"
+    alt="Contribution Streak"
+  />
+</p>
 
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&hide_border=true"
-    height="160"
+    height="130"
     alt="Top Languages"
   />
 </p>
 
 ---
 
-## Open To Opportunities
+## Connect
 
-I am currently open to:
-
-- Frontend Developer Internships
-- Junior Frontend Developer Roles
-- MERN Stack Development Opportunities
-- Freelance Web Development Projects
-- Open Source Contributions
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  &nbsp;
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
+  &nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
