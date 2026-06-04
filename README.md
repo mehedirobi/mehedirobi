@@ -104,21 +104,21 @@ Developer portfolio showcasing projects and technical skills with a responsive, 
 
 ---
 
-### [Project Name](https://your-link.com)
+### [UrbanFix](https://urban-fix-project-01.netlify.app/)
 
 UrbanFix – Public Infrastructure Issue Reporting System
 
-**Stack:** React · Node.js · Express.js · MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;
+**Stack:** React · Node.js · Firebase . Express.js · MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;
 [🔗 Live Demo](https://urban-fix-project-01.netlify.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehedirobi/urban-fix-project)
 
 ---
 
-### [UrbanFix](https://urban-fix-project-01.netlify.app/)
+### [ToyVerse](https://toyverse-project-01.netlify.app/)
 
-_One clear sentence: what problem it solves and who it's for._
+A playful, colorful, and interactive toy store website for kids.
 
 **Stack:** React · Firebase · Tailwind CSS &nbsp;&nbsp; | &nbsp;&nbsp;
-[🔗 Live Demo](https://urban-fix-project-01.netlify.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
+[🔗 Live Demo](https://toyverse-project-01.netlify.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehedirobi/toyverse-project)
 
 ---
 
