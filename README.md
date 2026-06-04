@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img 
-    src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" 
-    width="100%" 
-    alt="Mehedi Robi Banner" 
+  <img
+    src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png"
+    width="100%"
+    alt="Mehedi Robi — Frontend Developer"
   />
 </p>
 
@@ -12,105 +12,118 @@
 
 <!-- Role Animation -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer+(React.js);Building+Scalable+Web+Applications;UI+Engineering+%26+Performance+Focused"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer+%E2%80%94+React+%26+JavaScript;Building+Scalable%2C+Production-Ready+Web+Apps;Transitioning+to+Full-Stack+%28MERN%29"
+    alt="Typing animation: Frontend Developer — React & JavaScript"
   />
 </p>
 
-<!-- Short Identity -->
+<!-- Tagline -->
 <p align="center">
-  Frontend Developer focused on building scalable, production-ready web applications with modern UI architecture and performance optimization.
+  Frontend Developer specializing in React.js — building scalable, accessible, and
+  performant web applications with clean architecture and modern UI patterns.
+</p>
+
+<!-- Availability Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-0E75B6?style=flat-square" alt="Open to opportunities" />
 </p>
 
 ---
 
-## About Me
+## About
 
-Frontend Developer specializing in React.js and JavaScript, focused on building modern, scalable, and maintainable web applications.
+I build modern web applications with a focus on **component-driven architecture**,
+**clean code**, and **real-world usability**. My primary stack is React.js with
+JavaScript (ES6+), and I'm actively expanding into backend development with Node.js,
+Express.js, and MongoDB to complete the MERN stack.
 
-Experienced in developing responsive user interfaces, reusable components, and API-driven applications with strong attention to performance, usability, and clean architecture.
-
-Currently expanding into backend development with Node.js, Express.js, and MongoDB toward becoming a Full-Stack (MERN) Developer.
-
+I care about writing maintainable code, thoughtful UI design, and delivering
+experiences that actually work for users.
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
-<p align="center">
-  HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS
-</p>
-
----
+`HTML5` `CSS3` `JavaScript (ES6+)` `React.js` `Tailwind CSS`
 
 ### Backend & Database
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-<p align="center">
-  Node.js • Express.js • MongoDB • Firebase • REST APIs
-</p>
+`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs`
 
----
-
-### Tools & Workflow
-
-<p align="center">
+### Tooling & Workflow
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma" />
 </p>
 
-<p align="center">
-  Git • GitHub • VS Code • Vite • Figma
-</p>
+`Git` `GitHub` `VS Code` `Vite` `Figma`
 
 ---
 
-## Core Engineering Focus
+## Currently Building
 
-- Scalable React application architecture  
-- Component-driven UI systems  
-- REST API integration & async data flow  
-- Authentication & role-based applications  
-- Performance optimization techniques  
-- Clean, maintainable code structure  
+- 🔨 Full-stack MERN applications with JWT authentication and role-based access control
+- 📐 Reusable component libraries with consistent design systems
+- ⚡ API-integrated dashboards with async state management
 
 ---
 
 ## Featured Projects
 
-- Real-world React applications  
-- Authentication-based systems  
-- Admin dashboards & management tools  
-- API-driven frontend systems  
-- MERN stack practice projects  
+> **Note:** Replace the entries below with your actual pinned projects.
+> Each entry should include: project name, 1-line description, live demo link, and repo link.
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Project Name** | Short, impactful description of what it does and who it's for | React, Node.js, MongoDB | [Live](https://your-link.com) · [Repo](https://github.com/mehdixun/repo) |
+| **Project Name** | Short, impactful description of what it does and who it's for | React, Tailwind CSS, Firebase | [Live](https://your-link.com) · [Repo](https://github.com/mehdixun/repo) |
+| **Project Name** | Short, impactful description of what it does and who it's for | React, Express.js, MongoDB | [Live](https://your-link.com) · [Repo](https://github.com/mehdixun/repo) |
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true" 
-    height="160" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true&theme=default&hide_rank=false"
+    height="155"
+    alt="GitHub stats"
   />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&hide_border=true" 
-    height="160" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&hide_border=true"
+    height="155"
+    alt="GitHub streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&hide_border=true" 
-    height="160" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&hide_border=true"
+    height="130"
+    alt="Top languages"
   />
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0E75B6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D93025?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
