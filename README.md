@@ -113,12 +113,12 @@ UrbanFix – Public Infrastructure Issue Reporting System
 
 ---
 
-### [Project Name](https://your-link.com)
+### [UrbanFix](https://urban-fix-project-01.netlify.app/)
 
 _One clear sentence: what problem it solves and who it's for._
 
 **Stack:** React · Firebase · Tailwind CSS &nbsp;&nbsp; | &nbsp;&nbsp;
-[🔗 Live Demo](https://your-link.com) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
+[🔗 Live Demo](https://urban-fix-project-01.netlify.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
 
 ---
 
