@@ -154,15 +154,15 @@ A playful, colorful, and interactive toy store website for kids.
 ## Connect
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mehedirobidev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
