@@ -100,7 +100,7 @@ clean user interfaces with real-world usability. Currently deepening my backend 
 Developer portfolio showcasing projects and technical skills with a responsive, animated interface.
 
 **Stack:** React · Tailwind CSS · Framer Motion &nbsp;&nbsp; | &nbsp;&nbsp;
-[🔗 Live Demo](https://your-link.com) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehdixun/repo)
+[🔗 Live Demo](https://mehedirobi-portfolio.netlify.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/mehedirobi/mehedirobi-portfolio)
 
 ---
 
