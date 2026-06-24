@@ -1,47 +1,33 @@
-<!-- ==========================================================
-MEHEDI ROBI — FRONTEND / MERN DEVELOPER
-=========================================================== -->
-
 <p align="center">
   <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" width="100%" alt="Mehedi Robi Banner" />
 </p>
 
-<h1 align="center">Mehedi Robi</h1>
+<h1 align="center">Hi, I'm Mehedi Robi 👋</h1>
 
 <h3 align="center">
-Frontend Developer | React.js | JavaScript | MERN Stack
+Frontend Developer specializing in React.js, JavaScript, and MERN Stack
 </h3>
 
 <p align="center">
-Building scalable, responsive, and production-ready web applications.
+I build responsive, scalable, and user-focused web applications using modern frontend technologies and full-stack development practices.
 </p>
 
 <p align="center">
-  <a href="https://mehedirobi-portfolio.netlify.app/">Portfolio</a> •
-  <a href="https://github.com/mehedirobi">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mehedirobii/">LinkedIn</a>
+<a href="https://mehedirobi-portfolio.netlify.app/">Portfolio</a> •
+<a href="https://github.com/mehedirobi">GitHub</a> •
+<a href="https://www.linkedin.com/in/mehedirobii/">LinkedIn</a> •
+<a href="mailto:mehedirobidev@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About Me
 
-Frontend Developer focused on building modern web applications using React and JavaScript.
-
-I enjoy transforming ideas into scalable, user-friendly products with clean architecture, reusable components, and maintainable code.
-
-Currently expanding into full-stack development with Node.js, Express.js, MongoDB, authentication systems, and RESTful APIs.
-
-### Core Strengths
-
-* Responsive UI Development
-* Component-Based Architecture
-* REST API Integration
-* Authentication & Authorization
-* State Management
-* Performance Optimization
-* Clean Code & Maintainability
-* Git-Based Team Workflow
+* Frontend Developer with practical experience building real-world web applications.
+* Strong foundation in React.js, JavaScript (ES6+), Tailwind CSS, and REST API integration.
+* Experienced in developing full-stack MERN applications with authentication and CRUD functionality.
+* Focused on clean architecture, reusable components, responsive design, and maintainable code.
+* Currently pursuing a Diploma in Computer Science & Technology (Expected Graduation: 2027).
 
 ---
 
@@ -53,143 +39,128 @@ Currently expanding into full-stack development with Node.js, Express.js, MongoD
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 </p>
 
-HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+) • React.js • Next.js
-
-### Backend
+### Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-Node.js • Express.js • MongoDB • Firebase • REST APIs
-
-### Tools & Workflow
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,postman" />
 </p>
 
-Git • GitHub • VS Code • Vite • Postman • Figma
-
----
-
-## What I Build
-
-* Full-Stack MERN Applications
-* Authentication & Authorization Systems
-* Dashboards & Admin Panels
-* CRUD Applications
-* API-Driven Web Applications
-* Responsive Business Websites
-* Reusable Component Libraries
-
 ---
 
 ## Featured Projects
 
-### UrbanFix
+### UrbanFix — Civic Issue Reporting Platform
 
-Public infrastructure issue reporting platform where citizens can report, track, and manage civic problems.
+Full-stack platform that enables citizens to report, track, and manage public infrastructure issues.
 
-**Highlights**
+**Key Contributions**
 
-* Firebase Authentication
-* Role-Based Access Control
-* CRUD Operations
-* MongoDB Integration
-* Protected Routes
+* Implemented secure authentication and protected routes
+* Developed role-based dashboard functionality
+* Built REST API integration with MongoDB
+* Created issue reporting and tracking workflows
+* Designed responsive UI for desktop and mobile devices
 
-**Tech Stack**
+**Stack:** React • Tailwind CSS • Node.js • Express.js • Firebase • MongoDB
 
-React • Tailwind CSS • Node.js • Express.js • Firebase • MongoDB
+🔗 Live Demo: https://urban-fix-project-01.netlify.app/
 
-🔗 Live:
-https://urban-fix-project-01.netlify.app/
+📂 Repository: https://github.com/mehedirobi/urban-fix-project
 
-📂 Repository:
-https://github.com/mehedirobi/urban-fix-project
+---
+
+### ToyVerse — Full-Stack Toy Marketplace
+
+Marketplace application featuring authentication, product management, and CRUD operations.
+
+**Key Contributions**
+
+* Implemented Firebase Authentication
+* Developed CRUD functionality for products
+* Connected frontend with REST APIs
+* Managed marketplace data using MongoDB
+* Built reusable and responsive UI components
+
+**Stack:** React • Tailwind CSS • Node.js • Express.js • Firebase • MongoDB
+
+🔗 Live Demo: https://toyverse-project-01.netlify.app/
+
+📂 Repository: https://github.com/mehedirobi/toyverse-project
 
 ---
 
 ### Portfolio Website
 
-Personal developer portfolio showcasing projects, skills, and development experience.
+Professional portfolio showcasing projects, technical skills, and development experience.
 
 **Highlights**
 
-* Responsive Design
-* Modern UI/UX
-* Project Showcase
-* Smooth Animations
+* Responsive modern design
+* Smooth user experience
+* Project showcase section
+* Performance-focused implementation
 
-**Tech Stack**
+**Stack:** React • Tailwind CSS • Framer Motion
 
-React • Tailwind CSS • Framer Motion
+🔗 Live Demo: https://mehedirobi-portfolio.netlify.app/
 
-🔗 Live:
-https://mehedirobi-portfolio.netlify.app/
-
-📂 Repository:
-https://github.com/mehedirobi/mehedirobi-portfolio
+📂 Repository: https://github.com/mehedirobi/mehedirobi-portfolio
 
 ---
 
-### ToyVerse
-
-Interactive toy marketplace application with category-based browsing and engaging UI.
-
-**Highlights**
-
-* Dynamic Routing
-* Firebase Authentication
-* Responsive Design
-* Interactive Components
-
-**Tech Stack**
-
-React • Tailwind CSS • Firebase
-
-🔗 Live:
-https://toyverse-project-01.netlify.app/
-
-📂 Repository:
-https://github.com/mehedirobi/toyverse-project
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedirobi&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true" />
-</p>
-
----
-
-## Current Learning
+## What I'm Currently Learning
 
 * Advanced React Patterns
 * Next.js App Router
 * JWT Authentication
-* MongoDB Aggregation
 * Backend Architecture
+* MongoDB Aggregation
 * System Design Fundamentals
 
 ---
 
-## Connect With Me
+## GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedirobi" />
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact" />
+</p>
+
+---
+
+## Education
+
+**Diploma in Computer Science & Technology (CST)**
+
+Ahsanullah Institute of Technical & Vocational Education & Training (AITVET)
+
+Expected Graduation: 2027
+
+---
+
+## Contact
 
 📧 Email: [mehedirobidev@gmail.com](mailto:mehedirobidev@gmail.com)
 
-🌐 Portfolio:
-https://mehedirobi-portfolio.netlify.app/
+🌐 Portfolio: https://mehedirobi-portfolio.netlify.app/
 
-💼 LinkedIn:
-https://www.linkedin.com/in/mehedirobii/
+💼 LinkedIn: https://www.linkedin.com/in/mehedirobii/
 
-🐙 GitHub:
-https://github.com/mehedirobi
+🐙 GitHub: https://github.com/mehedirobi
+
+📍 Dhaka, Bangladesh
+
+---
+
+> Open to Frontend Developer Internships, Junior Frontend Developer Roles, and MERN Stack Opportunities.
