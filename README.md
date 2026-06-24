@@ -1,153 +1,195 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     MEHEDI ROBI — GitHub Profile README
-     Optimized for: Frontend / Junior Full-Stack Developer Roles
-════════════════════════════════════════════════════════════════ -->
+<!-- ==========================================================
+MEHEDI ROBI — FRONTEND / MERN DEVELOPER
+=========================================================== -->
 
-<!-- Banner -->
 <p align="center">
-  <img
-    src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png"
-    width="100%"
-    alt="Mehedi Robi — Frontend Developer"
-  />
+  <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" width="100%" alt="Mehedi Robi Banner" />
 </p>
 
 <h1 align="center">Mehedi Robi</h1>
-<h3 align="center">Frontend Developer · React.js & JavaScript (ES6+)</h3>
+
+<h3 align="center">
+Frontend Developer | React.js | JavaScript | MERN Stack
+</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+scalable+React+applications;Clean+architecture+%26+component-driven+UI;Expanding+into+Full-Stack+MERN+development"
-    alt="Typing animation"
-  />
+Building scalable, responsive, and production-ready web applications.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-React%20%7C%20MERN%20Stack-0E75B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-f59e0b?style=flat-square" />
+  <a href="https://mehedirobi-portfolio.netlify.app/">Portfolio</a> •
+  <a href="https://github.com/mehedirobi">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mehedirobii/">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-Frontend Developer specializing in **React.js** and **JavaScript (ES6+)**, focused on building scalable, maintainable, and production-ready web applications.
+Frontend Developer focused on building modern web applications using React and JavaScript.
 
-I design component-driven UIs, integrate REST APIs, and follow modern tooling practices to ship clean, real-world products. Currently expanding into full-stack territory with **Node.js**, **Express.js**, and **MongoDB** as part of the MERN stack.
+I enjoy transforming ideas into scalable, user-friendly products with clean architecture, reusable components, and maintainable code.
 
-- 🔭 Currently building: Full-stack MERN apps with JWT auth and role-based access
-- 🌱 Learning: Backend architecture, API design, and database modeling
-- 💬 Ask me about: React, Tailwind CSS, component architecture, REST APIs
-- 📫 Reach me at: **mehedirobidev@gmail.com**
+Currently expanding into full-stack development with Node.js, Express.js, MongoDB, authentication systems, and RESTful APIs.
+
+### Core Strengths
+
+* Responsive UI Development
+* Component-Based Architecture
+* REST API Integration
+* Authentication & Authorization
+* State Management
+* Performance Optimization
+* Clean Code & Maintainability
+* Git-Based Team Workflow
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 </p>
 
-`HTML5` &nbsp;`CSS3` &nbsp;`JavaScript (ES6+)` &nbsp;`React.js` &nbsp;`Tailwind CSS` &nbsp;`Framer Motion`
+HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+) • React.js • Next.js
 
-<br />
+### Backend
 
-**Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-`Node.js` &nbsp;`Express.js` &nbsp;`MongoDB` &nbsp;`Firebase` &nbsp;`REST APIs` &nbsp;`JWT`
+Node.js • Express.js • MongoDB • Firebase • REST APIs
 
-<br />
+### Tools & Workflow
 
-**Tooling & Workflow**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,postman" />
 </p>
 
-`Git` &nbsp;`GitHub` &nbsp;`VS Code` &nbsp;`Vite` &nbsp;`Figma`
+Git • GitHub • VS Code • Vite • Postman • Figma
+
+---
+
+## What I Build
+
+* Full-Stack MERN Applications
+* Authentication & Authorization Systems
+* Dashboards & Admin Panels
+* CRUD Applications
+* API-Driven Web Applications
+* Responsive Business Websites
+* Reusable Component Libraries
 
 ---
 
 ## Featured Projects
 
-### 🏙️ [UrbanFix](https://urban-fix-project-01.netlify.app/) — Public Infrastructure Reporting System
+### UrbanFix
 
-A civic-tech platform where users report and track local infrastructure issues. Features role-based access, real-time status updates, and admin dashboards.
+Public infrastructure issue reporting platform where citizens can report, track, and manage civic problems.
 
-**Stack:** React · Node.js · Express.js · MongoDB · Firebase
+**Highlights**
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-urban--fix-0E75B6?style=flat-square)](https://urban-fix-project-01.netlify.app/)
-[![Repository](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/mehedirobi/urban-fix-project)
+* Firebase Authentication
+* Role-Based Access Control
+* CRUD Operations
+* MongoDB Integration
+* Protected Routes
+
+**Tech Stack**
+
+React • Tailwind CSS • Node.js • Express.js • Firebase • MongoDB
+
+🔗 Live:
+https://urban-fix-project-01.netlify.app/
+
+📂 Repository:
+https://github.com/mehedirobi/urban-fix-project
 
 ---
 
-### 🧸 [ToyVerse](https://toyverse-project-01.netlify.app/) — Interactive Toy Store
+### Portfolio Website
 
-A playful, category-driven e-commerce UI for kids' toys with Firebase authentication and dynamic product listings.
+Personal developer portfolio showcasing projects, skills, and development experience.
 
-**Stack:** React · Firebase · Tailwind CSS
+**Highlights**
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-toyverse-20B2AA?style=flat-square)](https://toyverse-project-01.netlify.app/)
-[![Repository](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/mehedirobi/toyverse-project)
+* Responsive Design
+* Modern UI/UX
+* Project Showcase
+* Smooth Animations
+
+**Tech Stack**
+
+React • Tailwind CSS • Framer Motion
+
+🔗 Live:
+https://mehedirobi-portfolio.netlify.app/
+
+📂 Repository:
+https://github.com/mehedirobi/mehedirobi-portfolio
 
 ---
 
-### 🧑‍💻 [Portfolio](https://mehedirobi-portfolio.netlify.app/) — Developer Portfolio Website
+### ToyVerse
 
-Personal portfolio showcasing projects, skills, and experience — built with React, Tailwind CSS, and Framer Motion.
+Interactive toy marketplace application with category-based browsing and engaging UI.
 
-**Stack:** React · Tailwind CSS · Framer Motion · Vite
+**Highlights**
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-portfolio-000000?style=flat-square)](https://mehedirobi-portfolio.netlify.app/)
-[![Repository](https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/mehedirobi/mehedirobi-portfolio)
+* Dynamic Routing
+* Firebase Authentication
+* Responsive Design
+* Interactive Components
+
+**Tech Stack**
+
+React • Tailwind CSS • Firebase
+
+🔗 Live:
+https://toyverse-project-01.netlify.app/
+
+📂 Repository:
+https://github.com/mehedirobi/toyverse-project
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mehdixun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdixun&hide_border=true"
-    height="160"
-    alt="Contribution Streak"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedirobi&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdixun&layout=compact&hide_border=true"
-    height="130"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true" />
 </p>
+
+---
+
+## Current Learning
+
+* Advanced React Patterns
+* Next.js App Router
+* JWT Authentication
+* MongoDB Aggregation
+* Backend Architecture
+* System Design Fundamentals
 
 ---
 
 ## Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:mehedirobidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+📧 Email: [mehedirobidev@gmail.com](mailto:mehedirobidev@gmail.com)
 
-<p align="center">
-  <sub>⭐ If you find any of my projects useful, consider giving them a star!</sub>
-</p>
+🌐 Portfolio:
+https://mehedirobi-portfolio.netlify.app/
+
+💼 LinkedIn:
+https://www.linkedin.com/in/mehedirobii/
+
+🐙 GitHub:
+https://github.com/mehedirobi
