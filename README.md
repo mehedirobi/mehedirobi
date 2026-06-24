@@ -35,28 +35,39 @@ Building responsive, scalable, and production-ready web applications.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
+
+**HTML5** • **CSS3** • **Tailwind CSS** • **JavaScript (ES6+)** • **React.js**
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+**Node.js** • **Express.js**
 
 ### Database & Authentication
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### Tools
+**MongoDB** • **Firebase Authentication**
+
+### Tools & Workflow
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
 </p>
 
----
+**Git** • **GitHub** • **VS Code** • **Vite**
+
+### Core Concepts
+
+REST APIs • CRUD Operations • Responsive Design • Component-Based Architecture • Protected Routes • Reusable UI Components
+
 
 ## Featured Projects
 
