@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/HTtBwPQf/1775143430735-b34f40f3-23ef-4aee-bb42-37aeee8c3127-1.png" width="100%" alt="Mehedi Robi Banner" />
+  <img src="https://i.ibb.co/xKzzfZb8/Banner-Img.png" width="100%" alt="Mehedi Robi Banner" />
 </p>
 
 <h1 align="center">Mehedi Robi</h1>
