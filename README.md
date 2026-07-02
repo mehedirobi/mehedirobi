@@ -23,12 +23,11 @@ Building responsive, scalable, and user-focused web applications with modern web
 
 ## About Me
 
-* Frontend Developer specializing in React.js and modern JavaScript development.
-* Experienced in building full-stack MERN applications with authentication, CRUD operations, and REST API integration.
-* Strong focus on responsive design, reusable components, clean architecture, and maintainable code.
-* Passionate about creating practical solutions that deliver a seamless user experience.
+* MERN Stack Developer with hands-on experience building responsive and scalable full-stack web applications.
+* Proficient in React.js, JavaScript (ES6+), Node.js, Express.js, MongoDB, and REST API integration.
+* Experienced in implementing authentication, CRUD operations, protected routes, and database-driven applications.
+* Focused on writing clean, maintainable code while building user-centric and performance-oriented web applications.
 
----
 
 ## Tech Stack
 
