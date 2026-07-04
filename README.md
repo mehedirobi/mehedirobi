@@ -7,13 +7,13 @@
 ### MERN Stack Developer
 
 <p>
-  <a href="https://mehedirobi-portfolio.netlify.app/">
+  <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mehedirobii/">
+  <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mehedirobidev@gmail.com">
+  <a href="mailto:mehedirobidev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
