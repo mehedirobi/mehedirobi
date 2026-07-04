@@ -49,7 +49,7 @@ I enjoy developing full-stack applications, designing reusable UI components, bu
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
