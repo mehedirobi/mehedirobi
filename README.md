@@ -1,108 +1,113 @@
 <div align="center">
 
-<img src="https://i.ibb.co/GQv9Q8nB/banner-image.png" width="100%" alt="Mehedi Robi Banner" />
+<img src="https://i.ibb.co/GQv9Q8nB/banner-image.png" width="100%" alt="Mehedi Robi Banner"/>
 
 # Mehedi Robi
 
-### MERN Stack Developer building responsive, scalable, production-ready web apps
+### MERN Stack Developer | Building scalable, responsive, and production-ready web applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mehedirobi-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://mehedirobi-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedirobii/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedirobidev@gmail.com)
+<p>
+  <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mehedirobidev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=mehedirobi&style=flat-square&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=mehedirobi&style=flat-square&color=6D28D9" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-## About
+# About Me
 
-I'm a MERN stack developer focused on building full-stack web applications with clean architecture and polished UI. Recent work spans authenticated CRUD platforms, role-based dashboards, and animated, accessible frontends.
+I'm a **MERN Stack Developer** passionate about building modern, scalable, and production-ready web applications.
 
-- 🔭 Currently building and refining production-grade React + Tailwind projects
-- 🌱 Deepening backend skills — Node.js, Express, MongoDB, JWT auth
-- 💬 Comfortable across the full stack: React on the frontend, Express/MongoDB on the backend
-- 📫 Reach me at **mehedirobidev@gmail.com**
+I enjoy turning ideas into clean, maintainable software using **React, Node.js, Express.js, and MongoDB**. My focus is writing reusable components, designing intuitive user interfaces, integrating REST APIs, implementing secure authentication, and building applications that deliver excellent user experiences.
 
-<br/>
+Currently, I'm strengthening my backend engineering skills while developing real-world full-stack applications.
 
-## Tech Stack
+---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+# Tech Stack
 
-**Frontend**
-<br/>
+### Frontend
+
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite" />
+</p>
 
-**Backend & Database**
-<br/>
+### Backend & Database
+
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-</td>
-<td valign="top" width="50%">
+### Tools
 
-**Tools & Workflow**
-<br/>
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
-**Core Concepts**
-<br/>
-REST APIs · JWT Auth · CRUD Operations · Protected Routes · Component-Based Architecture · Responsive Design
+### Currently Working With
 
-</td>
-</tr>
-</table>
+`React` • `Node.js` • `Express.js` • `MongoDB` • `REST API` • `JWT Authentication` • `Firebase Authentication` • `CRUD Operations` • `Responsive Design`
 
-<br/>
+---
 
-## Featured Projects
+# Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🏙️ UrbanFix
 
-### 🏙️ UrbanFix
-Full-stack civic issue reporting platform — users report, track, and manage public infrastructure issues through role-based dashboards.
+A full-stack civic issue reporting platform featuring authentication, role-based dashboards, issue tracking, and issue management.
 
-`React` `Tailwind CSS` `Node.js` `Express` `Firebase` `MongoDB`
+**Tech Stack**
 
-[🔗 Live Demo](https://urban-fix-project-01.netlify.app/) · [📂 Repository](https://github.com/mehedirobi/urban-fix-project)
+`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
 
-</td>
-<td width="50%" valign="top">
+🔗 **Live:** https://urban-fix-project-01.netlify.app/
 
-### 🧸 ToyVerse
-Full-stack toy marketplace with authentication, product management, and complete CRUD workflows.
+📂 **Repository:** https://github.com/mehedirobi/urban-fix-project
 
-`React` `Tailwind CSS` `Node.js` `Express` `Firebase` `MongoDB`
+---
 
-[🔗 Live Demo](https://toyverse-project-01.netlify.app/) · [📂 Repository](https://github.com/mehedirobi/toyverse-project)
+## 🧸 ToyVerse
 
-</td>
-</tr>
-</table>
+A full-stack toy marketplace with authentication, product management, secure CRUD operations, and responsive user experience.
 
-<br/>
+**Tech Stack**
 
-## GitHub Stats
+`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=6D28D9&text_color=333333" />
-<img height="165" src="https://streak-stats.demolab.com/?user=mehedirobi&hide_border=true&ring=6D28D9&fire=3B82F6" />
-</div>
+🔗 **Live:** https://toyverse-project-01.netlify.app/
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&title_color=6D28D9&text_color=333333" />
-</div>
+📂 **Repository:** https://github.com/mehedirobi/toyverse-project
 
-<br/>
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-**Let's connect** — [Portfolio](https://mehedirobi-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mehedirobii/) · [Email](mailto:mehedirobidev@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=mehedirobi&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
+
+---
+
+# Connect With Me
+
+<p align="center">
+<a href="https://mehedirobi-portfolio.netlify.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/mehedirobii/">LinkedIn</a> •
+<a href="mailto:mehedirobidev@gmail.com">Email</a>
+</p>
