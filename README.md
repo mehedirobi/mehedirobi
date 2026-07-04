@@ -91,12 +91,12 @@ Full-stack toy marketplace with authentication, product management, and complete
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=default" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedirobi&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=6D28D9&text_color=333333" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mehedirobi&hide_border=true&ring=6D28D9&fire=3B82F6" />
 </div>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&title_color=6D28D9&text_color=333333" />
 </div>
 
 <br/>
