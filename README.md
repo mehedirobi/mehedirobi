@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/GQv9Q8nB/banner-image.png" width="100%" alt="Mehedi Robi Banner" />
+<img src="https://i.ibb.co/XrtLFCdC/Mehedi-Robi-Banner.png" width="100%" alt="Mehedi Robi Banner" />
 
 # Mehedi Robi
 
