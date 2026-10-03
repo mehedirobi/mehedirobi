@@ -8,20 +8,20 @@
 
 ### MERN Stack Developer
 
-Building modern, responsive, and maintainable web applications with **React, Node.js, Express.js, and MongoDB.**
+Building clean, responsive, and maintainable web applications with the **MERN stack**.
 
 <br />
 
 <a href="https://mehedirobi-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mehedirobii/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:mehedirobidev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -30,13 +30,13 @@ Building modern, responsive, and maintainable web applications with **React, Nod
 
 ---
 
-## About Me
+## About
 
 I'm a **MERN Stack Developer** focused on building practical, user-focused web applications with clean architecture and maintainable code.
 
-I enjoy working across the full development lifecycle — from designing responsive interfaces and reusable React components to building RESTful APIs, integrating MongoDB, and implementing authentication and protected application flows.
+I work across the full development lifecycle — from building responsive React interfaces and reusable components to developing RESTful APIs, integrating MongoDB, and implementing authentication and protected application flows.
 
-I'm continuously improving my backend development, system design, and software engineering practices through real-world projects.
+I'm continuously improving my backend development, system design, and software engineering skills through real-world projects.
 
 ---
 
@@ -44,19 +44,25 @@ I'm continuously improving my backend development, system design, and software e
 
 <div align="center">
 
-### Frontend
+**Frontend**
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 
 <br /><br />
 
-### Backend & Database
+**Backend & Database**
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 <br /><br />
 
-### Tools & Workflow
+**Tools**
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
@@ -66,34 +72,13 @@ I'm continuously improving my backend development, system design, and software e
 
 ## Core Skills
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### Frontend Development
+`React.js` · `JavaScript (ES6+)` · `Tailwind CSS` · `Node.js` · `Express.js`
+`MongoDB` · `REST APIs` · `CRUD Operations` · `Authentication` · `Protected Routes`
+`Responsive Design` · `Component-Based Architecture` · `Git` · `GitHub`
 
-* React.js
-* JavaScript (ES6+)
-* Tailwind CSS
-* Responsive UI
-* Reusable Components
-* React Router
-
-</td>
-<td width="50%">
-
-### Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* MongoDB
-* CRUD Operations
-* Authentication
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -103,29 +88,35 @@ I'm continuously improving my backend development, system design, and software e
 
 A full-stack turf booking platform designed for discovering and booking sports turfs in Dhaka.
 
-**Highlights**
+**Key Features**
 
 * Turf discovery and search
-* Date & time availability
+* Date and time availability
 * Booking management
-* Customer & turf-owner workflows
+* Customer and turf-owner workflows
 * REST API integration
 
-**Tech Stack**
+**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
 
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+<div>
 
-**Repositories**
+<a href="https://github.com/mehedirobi/khelaro-client">
+  <img src="https://img.shields.io/badge/Client-18181B?style=flat-square&logo=github&logoColor=white" alt="Khelaro Client" />
+</a>
+&nbsp;
+<a href="https://github.com/mehedirobi/khelaro-server">
+  <img src="https://img.shields.io/badge/Server-18181B?style=flat-square&logo=github&logoColor=white" alt="Khelaro Server" />
+</a>
 
-[Client](https://github.com/mehedirobi/khelaro-client) · [Server](https://github.com/mehedirobi/khelaro-server)
+</div>
 
 ---
 
 ### 🏙️ UrbanFix — Civic Issue Reporting Platform
 
-A role-based civic issue reporting platform for submitting, managing, and tracking community issues.
+A role-based platform for submitting, managing, and tracking community issues.
 
-**Highlights**
+**Key Features**
 
 * Firebase authentication
 * Role-based dashboards
@@ -133,11 +124,19 @@ A role-based civic issue reporting platform for submitting, managing, and tracki
 * REST API integration
 * MongoDB data management
 
-**Tech Stack**
+**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
 
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
+<div>
 
-[Live Demo](https://urban-fix-project-01.netlify.app/) · [Repository](https://github.com/mehedirobi/urban-fix-project)
+<a href="https://urban-fix-project-01.netlify.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="UrbanFix Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/mehedirobi/urban-fix-project">
+  <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="UrbanFix Repository" />
+</a>
+
+</div>
 
 ---
 
@@ -145,7 +144,7 @@ A role-based civic issue reporting platform for submitting, managing, and tracki
 
 A full-stack marketplace for browsing and managing toy products with authentication and CRUD functionality.
 
-**Highlights**
+**Key Features**
 
 * User authentication
 * Product management
@@ -153,23 +152,30 @@ A full-stack marketplace for browsing and managing toy products with authenticat
 * Responsive interface
 * REST API integration
 
-**Tech Stack**
+**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
 
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
+<div>
 
-[Live Demo](https://toyverse-project-01.netlify.app/) · [Repository](https://github.com/mehedirobi/toyverse-project)
+<a href="https://toyverse-project-01.netlify.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="ToyVerse Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/mehedirobi/toyverse-project">
+  <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="ToyVerse Repository" />
+</a>
+
+</div>
 
 ---
 
 ## Currently Learning
 
-```text
-Advanced Backend Development
-Authentication & Authorization
-JWT & Role-Based Access Control
-Scalable Application Architecture
-Software Engineering Best Practices
-```
+<div align="center">
+
+**Backend Development** · **Authentication & Authorization** · **JWT**
+**Role-Based Access Control** · **Scalable Architecture** · **Software Engineering**
+
+</div>
 
 ---
 
@@ -177,7 +183,7 @@ Software Engineering Best Practices
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 
@@ -185,24 +191,24 @@ Software Engineering Best Practices
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
+### Let's Connect
+
 <a href="https://mehedirobi-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mehedirobii/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:mehedirobidev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br /><br />
 
-**Open to internship and entry-level software development opportunities.**
+<sub>Open to internship and entry-level software development opportunities.</sub>
 
 </div>
