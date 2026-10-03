@@ -1,101 +1,79 @@
-<div align="center">
-
-<img src="https://i.ibb.co/XrtLFCdC/Mehedi-Robi-Banner.png" width="100%" alt="Mehedi Robi Banner" />
-
 # Mehedi Robi
 
 ### MERN Stack Developer
 
-<p>
-  <a href="https://mehedirobi-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mehedirobii/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mehedirobidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I build clean, responsive, and maintainable web applications using **React, Node.js, Express.js, and MongoDB**.
 
-<img src="https://komarev.com/ghpvc/?username=mehedirobi&style=flat-square&color=6D28D9" />
-
-</div>
-
----
-
-## About
-
-I'm a MERN Stack Developer focused on building modern, scalable, and maintainable web applications using **MongoDB, Express.js, React, and Node.js**.
-
-I enjoy developing full-stack applications, designing reusable UI components, building RESTful APIs, implementing authentication, and creating clean, user-focused experiences with an emphasis on performance and maintainability.
+My focus is on practical full-stack development, reusable UI components, REST APIs, authentication, CRUD operations, and user-focused experiences.
 
 ---
 
 ## Tech Stack
 
-### Frontend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite" />
-</p>
+HTML5 · CSS3 · JavaScript · React · Tailwind CSS · Vite
 
-### Backend & Database
+**Backend & Database**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+Node.js · Express.js · MongoDB · Firebase
 
-### Tools
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+Git · GitHub · VS Code · Figma
 
 ---
 
 ## Featured Projects
 
-### 🏙️ UrbanFix
+### Khelaro — Turf Booking Platform
 
-Role-based civic issue reporting platform with authentication, dashboards, and issue management.
+A full-stack turf booking platform designed for finding and booking sports turfs in Dhaka.
 
-**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
+**Focus:** Turf discovery · Availability · Booking management · User & owner workflows
 
-🔗 Live: https://urban-fix-project-01.netlify.app/
+**Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB
 
-📂 Repository: https://github.com/mehedirobi/urban-fix-project
+[Client Repository](https://github.com/mehedirobi/khelaro-client) · [Server Repository](https://github.com/mehedirobi/khelaro-server)
 
----
+### UrbanFix — Civic Issue Reporting Platform
 
-### 🧸 ToyVerse
+A role-based platform for reporting, managing, and tracking civic issues with dedicated user and administrative workflows.
 
-Full-stack toy marketplace with authentication, product management, and complete CRUD functionality.
+**Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
 
-**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
+[Live Demo](https://urban-fix-project-01.netlify.app/) · [Repository](https://github.com/mehedirobi/urban-fix)
 
-🔗 Live: https://toyverse-project-01.netlify.app/
+### ToyVerse — Toy Marketplace
 
-📂 Repository: https://github.com/mehedirobi/toyverse-project
+A full-stack marketplace for browsing and managing toy products with authentication and CRUD functionality.
 
----
+**Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=mehedirobi&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
+[Live Demo](https://toyverse-project-01.netlify.app/) · [Repository](https://github.com/mehedirobi/toyverse-project)
 
 ---
 
-<div align="center">
+## What I Work With
 
-Portfolio • LinkedIn • Email
+* Responsive and accessible user interfaces
+* RESTful API development
+* CRUD-based applications
+* Authentication and protected routes
+* MongoDB data modeling and integration
+* Component-based React architecture
+* Git and GitHub workflows
 
-</div>
+---
+
+## Currently
+
+Building and improving full-stack applications while strengthening my backend, authentication, and software engineering skills.
+
+---
+
+## Connect
+
+* [Portfolio](https://mehedirobi-portfolio.netlify.app/)
+* [LinkedIn](https://www.linkedin.com/in/mehedirobii/)
+* [Email](mailto:mehedirobidev@gmail.com)
