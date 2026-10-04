@@ -28,11 +28,11 @@
 
 ## About
 
-I'm a **MERN Stack Developer** focused on building clean, responsive, and maintainable web applications.
+I'm a **MERN Stack Developer** focused on building modern, responsive, and maintainable web applications that solve real-world problems.
 
-I work across the full-stack, from creating reusable React interfaces and responsive user experiences to developing RESTful APIs, integrating MongoDB, and implementing authentication, protected routes, and CRUD functionality.
+I work across the full stack using **JavaScript, React, Tailwind CSS, Node.js, Express.js, and MongoDB**, with experience in building reusable UI components, RESTful APIs, CRUD-based applications, authentication, protected routes, and database-driven features.
 
-I enjoy solving real-world problems through practical software development while continuously improving my backend and software engineering skills.
+I value **clean code, thoughtful architecture, responsive design, performance, and user experience**, and I'm continuously strengthening my backend development and software engineering skills through hands-on projects.
 
 ---
 
