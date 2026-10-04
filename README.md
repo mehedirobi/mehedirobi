@@ -8,7 +8,7 @@
 
 ### MERN Stack Developer
 
-**Full-Stack Web Developer focused on building modern, scalable, and user-focused web applications.**
+**MERN-Stack Web Developer focused on building modern, scalable, and user-focused web applications.**
 
 <br />
 
