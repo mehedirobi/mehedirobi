@@ -106,28 +106,31 @@ A web application for reporting and tracking public infrastructure issues, with 
 
 ---
 
-### 🧸 ToyVerse — Toy Marketplace
+### 🐾 PawMart — Pet Adoption & Supply Portal
 
-A marketplace web application for browsing and managing toy products, featuring authentication and product management workflows.
+A community-driven platform for pet adoption and pet supply shopping, featuring authentication, listing management, and order management workflows.
 
 **Key Features**
-- Product browsing and management
-- User authentication
-- CRUD operations
-- Responsive user interface
-- REST API integration
+- Browse and filter pets and pet supplies by category
+- Firebase authentication with email/password and Google login
+- CRUD operations for user listings
+- Pet adoption and product ordering
+- My Listings and My Orders dashboards
+- PDF order report generation
+- Light/Dark mode toggle
+- Responsive UI with REST API integration
 
 **Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
 
 <p>
-  <a href="https://github.com/mehedirobi/khelaro-client">
-    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
+  <a href="https://github.com/mehedirobi/pawmart-project">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Pawmart Client Repository" />
   </a>
-  <a href="https://github.com/mehedirobi/khelaro-server">
-    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
+  <a href="https://github.com/mehedirobi/pawmart-project-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Pawmart Server Repository" />
   </a>
-  <a href="https://khelaro.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
+  <a href="https://pawmart-project-01.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pawmart Live Demo" />
   </a>
 </p>
 
