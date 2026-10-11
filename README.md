@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Assalamu Alaikum! 👋 I'm Mehedi Robi
@@ -25,7 +24,7 @@ I build modern, responsive, and user-focused web applications using **JavaScript
 
 ## 👨‍💻 About Me
 
-I'm a web developer focused on building full-stack applications with the MERN stack. My work includes responsive React interfaces, reusable UI components, REST API integration, authentication, protected routes, CRUD operations, and database-driven features. I prioritize clean code, maintainability, performance, and user experience while continuously improving my software engineering skills through practical projects.
+I'm a **MERN Stack Developer** focused on building modern, responsive, and scalable full-stack web applications using MongoDB, Express.js, React, and Node.js. I work on reusable UI components, REST API integration, authentication, and database-driven features while prioritizing clean code, maintainability, and user experience. I'm continuously expanding my technical knowledge and problem-solving skills as I work toward becoming a **Software Engineer**.
 
 ## 🛠️ Tech Stack
 
@@ -143,9 +142,3 @@ I'm interested in collaborating on meaningful projects, learning from other deve
     <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Me an Email" />
   </a>
 </p>
-
-<div align="center">
-
-**Thanks for visiting my profile!**
-
-</div>
