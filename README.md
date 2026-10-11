@@ -1,193 +1,65 @@
-<div align="center">
-
-<img src="https://i.ibb.co/XrtLFCdC/Mehedi-Robi-Banner.png" width="100%" alt="Mehedi Robi" />
-
-<br />
 
 # Mehedi Robi
 
-### MERN Stack Developer
+**MERN Stack Developer | JavaScript · React · Node.js · Express · MongoDB**
 
-**MERN-Stack Web Developer focused on building modern, scalable, and user-focused web applications.**
+I build modern, responsive web applications with a focus on maintainable code, practical problem-solving, and user experience. I enjoy turning real-world requirements into reliable frontend experiences and full-stack features.
 
-<br />
-
-<a href="https://mehedirobi-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/mehedirobii/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:mehedirobidev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+[Portfolio](https://mehedirobi-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mehedirobii/) · [Email](mailto:mehedirobidev@gmail.com)
 
 ---
 
 ## About
 
-I'm a **MERN Stack Developer** focused on building modern, responsive, and maintainable web applications that solve real-world problems.
-
-I work across the full stack using **JavaScript, React, Tailwind CSS, Node.js, Express.js, and MongoDB**, with experience in building reusable UI components, RESTful APIs, CRUD-based applications, authentication, protected routes, and database-driven features.
-
-I value **clean code, thoughtful architecture, responsive design, performance, and user experience**, and I'm continuously strengthening my backend development and software engineering skills through hands-on projects.
-
----
+- Developing full-stack web applications with JavaScript and the MERN stack.
+- Building reusable React interfaces and integrating REST APIs.
+- Working with authentication, protected routes, CRUD workflows, and database-backed features.
+- Improving my skills in software design, backend reliability, performance, and application security.
 
 ## Tech Stack
 
-### Frontend
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Vite  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database & Auth:** MongoDB, Firebase  
+**Tools:** Git, GitHub, VS Code
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Technologies" />
-</p>
+## Selected Projects
 
-**HTML5 · CSS3 · JavaScript · React · Tailwind CSS · Vite**
+### Khelaro — Sports Turf Booking Platform
 
-### Backend & Database
+A full-stack platform for discovering sports turfs and managing bookings.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Technologies" />
-</p>
+- Turf discovery and search
+- Date and time availability workflows
+- Booking management for customers and turf owners
+- Frontend and REST API integration
 
-**Node.js · Express.js · MongoDB · Firebase**
+**Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
 
-### Tools
+[Client repository](https://github.com/mehedirobi/khelaro-client) · [Server repository](https://github.com/mehedirobi/khelaro-server) · [Live demo](https://khelaro.netlify.app/)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" />
-</p>
+### UrbanFix — Civic Issue Reporting
 
-**Git · GitHub · VS Code · Figma**
+A platform for reporting and tracking public infrastructure issues, with authentication and role-based workflows.
 
----
+**Stack:** React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
 
-## Featured Projects
+[Repository](https://github.com/mehedirobi/urban-fix-project) · [Live demo](https://urban-fix.netlify.app/)
 
-### Khelaro
+### ToyVerse — Toy Marketplace
 
-**Turf Booking Platform**
+A marketplace project for browsing and managing toy products, with authentication and product CRUD workflows.
 
-A full-stack turf booking platform designed for discovering and booking sports turfs in Dhaka. The platform includes availability checking and separate workflows for customers and turf owners.
+**Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
 
-**Features**
-
-* Turf discovery and search
-* Date & time availability
-* Booking management
-* Customer and turf-owner workflows
-* REST API integration
-
-**Technologies**
-
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-<br />
-
-<a href="https://github.com/mehedirobi/khelaro-client">
-  <img src="https://img.shields.io/badge/Client-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client" />
-</a>
-<a href="https://github.com/mehedirobi/khelaro-server">
-  <img src="https://img.shields.io/badge/Server-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server" />
-</a>
-<a href="https://khelaro.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Khelaro Live Demo" />
-</a>
+[Repository](https://github.com/mehedirobi/toyverse-project) · [Live demo](https://toyverse-project-01.netlify.app/)
 
 ---
 
-### UrbanFix
+## Connect
 
-**Civic Issue Reporting Platform**
+I'm interested in opportunities to learn, collaborate, and contribute to meaningful web projects.
 
-A role-based platform for reporting, managing, and tracking civic issues with authentication, dashboards, and administrative workflows.
-
-**Features**
-
-* Firebase authentication
-* Role-based dashboards
-* Issue management
-* REST API integration
-* MongoDB data management
-
-**Technologies**
-
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
-
-<br />
-
-<a href="https://urban-fix-project-01.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="UrbanFix Live Demo" />
-</a>
-<a href="https://github.com/mehedirobi/urban-fix-project">
-  <img src="https://img.shields.io/badge/Client-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Client" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Server-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Server" />
-</a>
-
----
-
-### ToyVerse
-
-**Toy Marketplace**
-
-A full-stack marketplace for browsing and managing toy products with authentication, product management, and CRUD functionality.
-
-**Features**
-
-* User authentication
-* Product management
-* CRUD operations
-* Responsive interface
-* REST API integration
-
-**Technologies**
-
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Firebase`
-
-<br />
-
-<a href="https://toyverse-project-01.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="ToyVerse Live Demo" />
-</a>
-<a href="https://github.com/mehedirobi/toyverse-project">
-  <img src="https://img.shields.io/badge/Client-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Client" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Server-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Server" />
-</a>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Connect
-
-<br />
-
-<a href="https://mehedirobi-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/mehedirobii/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:mehedirobidev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+- Portfolio: https://mehedirobi-portfolio.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/mehedirobii/
+- Email: mehedirobidev@gmail.com
