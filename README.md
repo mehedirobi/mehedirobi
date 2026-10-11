@@ -93,14 +93,14 @@ A web application for reporting and tracking public infrastructure issues, with 
 **Tech Stack:** React · Tailwind CSS · Firebase · Node.js · Express.js · MongoDB
 
 <p>
-  <a href="https://github.com/mehedirobi/khelaro-client">
-    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
+  <a href="https://github.com/mehedirobi/urban-fix">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Urban-fix Client Repository" />
   </a>
-  <a href="https://github.com/mehedirobi/khelaro-server">
-    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
+  <a href="https://github.com/mehedirobi/urban-fix-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Urban-fix Server Repository" />
   </a>
-  <a href="https://khelaro.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
+  <a href="https://urban-fix-project-01.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Urban-fix Live Demo" />
   </a>
 </p>
 
