@@ -93,11 +93,14 @@ A web application for reporting and tracking public infrastructure issues, with 
 **Tech Stack:** React · Tailwind CSS · Firebase · Node.js · Express.js · MongoDB
 
 <p>
-  <a href="https://github.com/mehedirobi/urban-fix-project">
-    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Repository" />
+  <a href="https://github.com/mehedirobi/khelaro-client">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
   </a>
-  <a href="https://urban-fix.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UrbanFix Live Demo" />
+  <a href="https://github.com/mehedirobi/khelaro-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
+  </a>
+  <a href="https://khelaro.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
   </a>
 </p>
 
@@ -117,11 +120,14 @@ A marketplace web application for browsing and managing toy products, featuring 
 **Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
 
 <p>
-  <a href="https://github.com/mehedirobi/toyverse-project">
-    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Repository" />
+  <a href="https://github.com/mehedirobi/khelaro-client">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
   </a>
-  <a href="https://toyverse-project-01.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ToyVerse Live Demo" />
+  <a href="https://github.com/mehedirobi/khelaro-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
+  </a>
+  <a href="https://khelaro.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
   </a>
 </p>
 
