@@ -1,65 +1,151 @@
 
-# Mehedi Robi
+<div align="center">
 
-**MERN Stack Developer | JavaScript · React · Node.js · Express · MongoDB**
+# Assalamu Alaikum! 👋 I'm Mehedi Robi
 
-I build modern, responsive web applications with a focus on maintainable code, practical problem-solving, and user experience. I enjoy turning real-world requirements into reliable frontend experiences and full-stack features.
+### MERN Stack Developer | Building Modern Web Applications
 
-[Portfolio](https://mehedirobi-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mehedirobii/) · [Email](mailto:mehedirobidev@gmail.com)
+I build modern, responsive, and user-focused web applications using **JavaScript, React, Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems through clean code, reusable components, REST APIs, and maintainable full-stack solutions.
+
+<p>
+  <a href="https://mehedirobi-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehedirobii/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mehedirobidev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-- Developing full-stack web applications with JavaScript and the MERN stack.
-- Building reusable React interfaces and integrating REST APIs.
-- Working with authentication, protected routes, CRUD workflows, and database-backed features.
-- Improving my skills in software design, backend reliability, performance, and application security.
+I'm a web developer focused on building full-stack applications with the MERN stack. My work includes responsive React interfaces, reusable UI components, REST API integration, authentication, protected routes, CRUD operations, and database-driven features. I prioritize clean code, maintainability, performance, and user experience while continuously improving my software engineering skills through practical projects.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Vite  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database & Auth:** MongoDB, Firebase  
-**Tools:** Git, GitHub, VS Code
+### Frontend Development
 
-## Selected Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="HTML5, CSS3, JavaScript, React, Tailwind CSS, Vite" />
+</p>
 
-### Khelaro — Sports Turf Booking Platform
+### Backend & Database
 
-A full-stack platform for discovering sports turfs and managing bookings.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Node.js, Express.js, MongoDB, Firebase" />
+</p>
 
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
+</p>
+
+**Core technologies:** JavaScript · React · Tailwind CSS · Node.js · Express.js · MongoDB · REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### ⚽ Khelaro — Sports Turf Booking Platform
+
+A full-stack sports turf booking platform designed to help users discover turfs, explore availability, and manage bookings through dedicated customer and turf-owner workflows.
+
+**Key Features**
 - Turf discovery and search
 - Date and time availability workflows
-- Booking management for customers and turf owners
-- Frontend and REST API integration
+- Booking management
+- Customer and turf-owner workflows
+- REST API integration
 
-**Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB
 
-[Client repository](https://github.com/mehedirobi/khelaro-client) · [Server repository](https://github.com/mehedirobi/khelaro-server) · [Live demo](https://khelaro.netlify.app/)
-
-### UrbanFix — Civic Issue Reporting
-
-A platform for reporting and tracking public infrastructure issues, with authentication and role-based workflows.
-
-**Stack:** React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB
-
-[Repository](https://github.com/mehedirobi/urban-fix-project) · [Live demo](https://urban-fix.netlify.app/)
-
-### ToyVerse — Toy Marketplace
-
-A marketplace project for browsing and managing toy products, with authentication and product CRUD workflows.
-
-**Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
-
-[Repository](https://github.com/mehedirobi/toyverse-project) · [Live demo](https://toyverse-project-01.netlify.app/)
+<p>
+  <a href="https://github.com/mehedirobi/khelaro-client">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
+  </a>
+  <a href="https://github.com/mehedirobi/khelaro-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
+  </a>
+  <a href="https://khelaro.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
+  </a>
+</p>
 
 ---
 
-## Connect
+### 🏙️ UrbanFix — Civic Issue Reporting Platform
 
-I'm interested in opportunities to learn, collaborate, and contribute to meaningful web projects.
+A web application for reporting and tracking public infrastructure issues, with authentication, role-based dashboards, and issue management workflows.
 
-- Portfolio: https://mehedirobi-portfolio.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/mehedirobii/
-- Email: mehedirobidev@gmail.com
+**Key Features**
+- User authentication
+- Role-based dashboards
+- Civic issue reporting and tracking
+- Issue management workflows
+- Database and API integration
+
+**Tech Stack:** React · Tailwind CSS · Firebase · Node.js · Express.js · MongoDB
+
+<p>
+  <a href="https://github.com/mehedirobi/urban-fix-project">
+    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Repository" />
+  </a>
+  <a href="https://urban-fix.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UrbanFix Live Demo" />
+  </a>
+</p>
+
+---
+
+### 🧸 ToyVerse — Toy Marketplace
+
+A marketplace web application for browsing and managing toy products, featuring authentication and product management workflows.
+
+**Key Features**
+- Product browsing and management
+- User authentication
+- CRUD operations
+- Responsive user interface
+- REST API integration
+
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
+
+<p>
+  <a href="https://github.com/mehedirobi/toyverse-project">
+    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Repository" />
+  </a>
+  <a href="https://toyverse-project-01.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ToyVerse Live Demo" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful projects, learning from other developers, and exploring opportunities to grow as a software developer.
+
+<p align="center">
+  <a href="https://mehedirobi-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehedirobii/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:mehedirobidev@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Me an Email" />
+  </a>
+</p>
+
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+</div>
