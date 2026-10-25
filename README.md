@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Assalamu Alaikum! 👋 I'm Mehedi Robi
+# HI! 👋 I'm Mehedi Robi
 
 ### MERN Stack Developer | Building Modern Web Applications
 
@@ -73,7 +73,7 @@ A full-stack sports turf booking platform designed to help users discover turfs,
   <a href="https://github.com/mehedirobi/khelaro-server">
     <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
   </a>
-  <a href="https://khelaro.netlify.app/">
+  <a href="https://khelaro-project.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
   </a>
 </p>
