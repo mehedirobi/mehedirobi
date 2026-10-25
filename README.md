@@ -25,7 +25,7 @@ I build modern, responsive, and user-focused web applications using **JavaScript
 
 ## 👨‍💻 About Me
 
-I'm a web developer focused on building full-stack applications with the MERN stack. My work includes responsive React interfaces, reusable UI components, REST API integration, authentication, protected routes, CRUD operations, and database-driven features. I prioritize clean code, maintainability, performance, and user experience while continuously improving my software engineering skills through practical projects.
+I'm a **MERN Stack Developer** focused on building modern, responsive, and scalable full-stack web applications using MongoDB, Express.js, React, and Node.js. I work on reusable UI components, REST API integration, authentication, and database-driven features while prioritizing clean code, maintainability, and user experience. I'm continuously expanding my technical knowledge and problem-solving skills as I work toward becoming a **Software Engineer**.
 
 ## 🛠️ Tech Stack
 
