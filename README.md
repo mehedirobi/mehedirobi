@@ -1,103 +1,151 @@
+
 <div align="center">
 
-# Hi, I'm Mehedi Robi 👋
+# Assalamu Alaikum! 👋 I'm Mehedi Robi
 
-### MERN Stack Developer · Building fast, responsive & scalable web apps
+### MERN Stack Developer | Building Modern Web Applications
 
-I turn real-world problems into clean, maintainable full-stack products using **React, Node.js, Express.js and MongoDB**. Focused on reusable components, secure REST APIs, authentication and a smooth user experience.
+I build modern, responsive, and user-focused web applications using **JavaScript, React, Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems through clean code, reusable components, REST APIs, and maintainable full-stack solutions.
 
 <p>
-  <a href="https://mehedirobi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mehedirobii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mehedirobidev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mehedirobi-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehedirobii/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mehedirobidev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-- 🎯 Aspiring **Software Engineer**, building full-stack apps with the MERN stack
-- 🧩 I care about clean code, reusable UI, REST API design and maintainability
-- 🔐 Experienced with authentication (Firebase), role-based dashboards and CRUD-driven features
-- 🌱 Continuously improving my problem-solving, system design and testing skills
-- 💼 Open to **junior / entry-level full-stack opportunities** and collaboration
+I'm a web developer focused on building full-stack applications with the MERN stack. My work includes responsive React interfaces, reusable UI components, REST API integration, authentication, protected routes, CRUD operations, and database-driven features. I prioritize clean code, maintainability, performance, and user experience while continuously improving my software engineering skills through practical projects.
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=postman&logoColor=white) |
-| **Database & Auth** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="HTML5, CSS3, JavaScript, React, Tailwind CSS, Vite" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Node.js, Express.js, MongoDB, Firebase" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
+</p>
+
+**Core technologies:** JavaScript · React · Tailwind CSS · Node.js · Express.js · MongoDB · REST APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+### ⚽ Khelaro — Sports Turf Booking Platform
 
-### ⚽ Khelaro
-**Sports turf booking platform**
+A full-stack sports turf booking platform designed to help users discover turfs, explore availability, and manage bookings through dedicated customer and turf-owner workflows.
 
-Discover turfs, check date/time availability and manage bookings through separate customer and turf-owner workflows.
+**Key Features**
+- Turf discovery and search
+- Date and time availability workflows
+- Booking management
+- Customer and turf-owner workflows
+- REST API integration
 
-- Turf search & discovery
-- Availability and booking management
-- Customer / owner flows
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB
 
-`React` `Tailwind` `Node` `Express` `MongoDB`
+<p>
+  <a href="https://github.com/mehedirobi/khelaro-client">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
+  </a>
+  <a href="https://github.com/mehedirobi/khelaro-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
+  </a>
+  <a href="https://khelaro.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
+  </a>
+</p>
 
-[Live Demo](https://khelaro.netlify.app/) · [Client](https://github.com/mehedirobi/khelaro-client) · [Server](https://github.com/mehedirobi/khelaro-server)
+---
 
-</td>
-    <td width="33%" valign="top">
+### 🏙️ UrbanFix — Civic Issue Reporting Platform
 
-### 🏙️ UrbanFix
-**Civic issue reporting platform**
+A web application for reporting and tracking public infrastructure issues, with authentication, role-based dashboards, and issue management workflows.
 
-Report and track public infrastructure issues with authentication, role-based dashboards and issue management.
+**Key Features**
+- User authentication
+- Role-based dashboards
+- Civic issue reporting and tracking
+- Issue management workflows
+- Database and API integration
 
-- Secure auth & role-based dashboards
-- Issue reporting & status tracking
-- Admin / staff management flows
+**Tech Stack:** React · Tailwind CSS · Firebase · Node.js · Express.js · MongoDB
 
-`React` `Tailwind` `Firebase` `Node` `Express` `MongoDB`
+<p>
+  <a href="https://github.com/mehedirobi/urban-fix-project">
+    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Repository" />
+  </a>
+  <a href="https://urban-fix.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UrbanFix Live Demo" />
+  </a>
+</p>
 
-[Live Demo](https://urban-fix-project-01.netlify.app/) · [Client](https://github.com/mehedirobi/urban-fix) · [Server](https://github.com/mehedirobi/urban-fix-server)
+---
 
-</td>
-    <td width="33%" valign="top">
+### 🧸 ToyVerse — Toy Marketplace
 
-### 🐾 PawMart
-**Pet adoption & supply portal**
+A marketplace web application for browsing and managing toy products, featuring authentication and product management workflows.
 
-Community platform for adopting pets and buying supplies, with listing and order management.
+**Key Features**
+- Product browsing and management
+- User authentication
+- CRUD operations
+- Responsive user interface
+- REST API integration
 
-- Email/password + Google login
-- Listing CRUD, My Orders, PDF reports
-- Category filters, light/dark mode
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
 
-`React` `Tailwind` `Firebase` `Node` `Express` `MongoDB`
-
-[Live Demo](https://pawmart-project-01.netlify.app/) · [Client](https://github.com/mehedirobi/pawmart-project) · [Server](https://github.com/mehedirobi/pawmart-project-server)
-
-</td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/mehedirobi/toyverse-project">
+    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Repository" />
+  </a>
+  <a href="https://toyverse-project-01.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ToyVerse Live Demo" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-Interested in collaborating on meaningful projects, learning from other developers and growing as a software engineer.
+I'm interested in collaborating on meaningful projects, learning from other developers, and exploring opportunities to grow as a software developer.
 
 <p align="center">
-  <a href="https://mehedirobi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mehedirobii/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:mehedirobidev@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+  <a href="https://mehedirobi-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehedirobii/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:mehedirobidev@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Me an Email" />
+  </a>
 </p>
+
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+</div>
