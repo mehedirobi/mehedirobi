@@ -104,25 +104,31 @@ A web application for reporting and tracking public infrastructure issues, with 
 
 ---
 
-### 🧸 ToyVerse — Toy Marketplace
+### 🐾 PawMart — Pet Adoption & Supplies Marketplace
 
-A marketplace web application for browsing and managing toy products, featuring authentication and product management workflows.
+A full-stack marketplace web application that connects pet owners, breeders, and pet shops, enabling users to discover pets for adoption and browse pet supplies through an intuitive, responsive platform.
 
 **Key Features**
-- Product browsing and management
-- User authentication
-- CRUD operations
-- Responsive user interface
-- REST API integration
+- Pet adoption listings and pet supplies marketplace
+- Product and category browsing
+- Email/password and Google authentication
+- Listing creation, updating, and deletion (CRUD operations)
+- Pet adoption and order management workflows
+- User dashboard and order history
+- PDF order report generation
+- Responsive user interface and REST API integration
 
-**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase · Tailwind CSS
 
 <p>
-  <a href="https://github.com/mehedirobi/toyverse-project">
-    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Repository" />
+  <a href="https://github.com/mehedirobi/pawmart">
+    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="PawMart Client Repository" />
   </a>
-  <a href="https://toyverse-project-01.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ToyVerse Live Demo" />
+  <a href="https://github.com/mehedirobi/pawmart-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PawMart Server Repository" />
+  </a>
+  <a href="https://pawmart-project-01.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PawMart Live Demo" />
   </a>
 </p>
 
