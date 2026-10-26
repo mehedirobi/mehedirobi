@@ -95,7 +95,10 @@ A web application for reporting and tracking public infrastructure issues, with 
 
 <p>
   <a href="https://github.com/mehedirobi/urbanfix">
-    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Repository" />
+    <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Client Repository" />
+  </a>
+  <a href="https://github.com/mehedirobi/urbanfix-server">
+    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
   </a>
   <a href="https://urbanfix-project-01.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UrbanFix Live Demo" />
