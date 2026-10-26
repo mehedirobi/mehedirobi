@@ -94,10 +94,10 @@ A web application for reporting and tracking public infrastructure issues, with 
 **Tech Stack:** React · Tailwind CSS · Firebase · Node.js · Express.js · MongoDB
 
 <p>
-  <a href="https://github.com/mehedirobi/urban-fix-project">
+  <a href="https://github.com/mehedirobi/urbanfix">
     <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Repository" />
   </a>
-  <a href="https://urban-fix.netlify.app/">
+  <a href="https://urbanfix-project-01.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UrbanFix Live Demo" />
   </a>
 </p>
