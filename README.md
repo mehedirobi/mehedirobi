@@ -11,12 +11,12 @@
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;JavaScript+Developer;React.js+Developer;Node.js+Developer;Software+Engineering+Enthusiast"
-    alt="Typing SVG"
+    alt="MERN Stack Developer, Full-Stack Web Developer, JavaScript Developer, React.js Developer, Node.js Developer"
   />
 
   <p>
-    I build modern, responsive, and scalable web applications with the MERN stack.
-    I focus on practical solutions, maintainable code, and thoughtful user experiences.
+    I build modern, responsive, and scalable web applications using the MERN stack.
+    I focus on practical solutions, maintainable code, and intuitive user experiences.
   </p>
 
   <p>
@@ -36,11 +36,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** who builds full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+I'm a **MERN Stack Developer** specializing in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
 
-My work includes responsive interfaces, reusable React components, REST API integration, authentication, protected routes, CRUD operations, and database-driven features.
+My development experience includes building responsive user interfaces, reusable React components, RESTful APIs, authentication systems, protected routes, CRUD operations, and database-driven application features.
 
-I value clean code, maintainable architecture, performance, and user experience. I'm continuously improving my development and problem-solving skills, with the long-term goal of growing into a **Software Engineer**.
+I prioritize clean code, maintainable architecture, application performance, and user experience. I'm continuously strengthening my technical and problem-solving skills, with the long-term goal of growing into a **Software Engineer**.
 
 ---
 
@@ -84,32 +84,38 @@ I value clean code, maintainable architecture, performance, and user experience.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🌐 Full-Stack Web Applications</h3>
-      <p>End-to-end applications using React, Node.js, Express.js, and MongoDB.</p>
+      <p>End-to-end web applications built with React, Node.js, Express.js, and MongoDB.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ RESTful APIs & Backend Services</h3>
+      <p>REST API development, server-side logic, data processing, and application integration.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>⚡ RESTful APIs & Backend Services</h3>
-      <p>API development, server-side logic, data handling, and application integration.</p>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🔐 Authentication & Authorization</h3>
       <p>Authentication flows, protected routes, and role-based access control.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🗄️ Database-Driven Applications</h3>
       <p>CRUD operations, MongoDB integration, and persistent application data.</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📱 Responsive User Interfaces</h3>
-      <p>Accessible, interactive, and responsive experiences across different screen sizes.</p>
+      <p>Accessible, interactive, and responsive interfaces across different screen sizes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Dashboard & Management Systems</h3>
+      <p>Structured dashboards and management interfaces for users and administrators.</p>
     </td>
   </tr>
 </table>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -139,7 +145,7 @@ I value clean code, maintainable architecture, performance, and user experience.
 
 ## 🤝 Connect With Me
 
-I'm open to meaningful collaborations, development opportunities, and connecting with other people in the software development community.
+I'm open to professional opportunities, meaningful collaborations, and connecting with other developers in the software development community.
 
 <div align="center">
   <a href="https://mehedirobi-portfolio.netlify.app/">
