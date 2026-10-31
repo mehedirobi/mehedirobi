@@ -43,41 +43,135 @@ My development experience includes building responsive user interfaces, reusable
 I prioritize clean code, maintainable architecture, application performance, and user experience. I'm continuously strengthening my technical and problem-solving skills, with the long-term goal of growing into a **Software Engineer**.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,tailwind" alt="HTML5, CSS3, JavaScript, React, React Router, Tailwind CSS" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" />
+  </a>
+  <br />
+  <strong>HTML5</strong>
+</p>
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3" />
+  </a>
+  <br />
+  <strong>CSS3</strong>
+</p>
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" />
+  </a>
+  <br />
+  <strong>JavaScript</strong>
+</p>
+
+<p>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React.js" />
+  </a>
+  <br />
+  <strong>React.js</strong>
+</p>
+
+<p>
+  <a href="https://reactrouter.com/">
+    <img src="https://skillicons.dev/icons?i=reactrouter" width="40" alt="React Router" />
+  </a>
+  <br />
+  <strong>React Router</strong>
+</p>
+
+<p>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" />
+  </a>
+  <br />
+  <strong>Tailwind CSS</strong>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
+  </a>
+  <br />
+  <strong>Node.js</strong>
+</p>
+
+<p>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" />
+  </a>
+  <br />
+  <strong>Express.js</strong>
 </p>
 
 ### 🗄️ Databases & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="MongoDB and Firebase" />
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" />
+  </a>
+  <br />
+  <strong>MongoDB</strong>
+</p>
+
+<p>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" />
+  </a>
+  <br />
+  <strong>Firebase</strong>
 </p>
 
 ### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VS Code, npm" />
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
+  </a>
+  <br />
+  <strong>Git</strong>
+</p>
+
+<p>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+  <br />
+  <strong>GitHub</strong>
+</p>
+
+<p>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" />
+  </a>
+  <br />
+  <strong>VS Code</strong>
+</p>
+
+<p>
+  <a href="https://www.npmjs.com/">
+    <img src="https://skillicons.dev/icons?i=npm" width="40" alt="npm" />
+  </a>
+  <br />
+  <strong>npm</strong>
 </p>
 
 ### 🔗 APIs & Integration
 
 <p>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" />
 </p>
-
 ---
 
 ## 🚀 What I Build
