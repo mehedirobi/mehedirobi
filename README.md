@@ -47,7 +47,7 @@ I prioritize clean code, maintainable architecture, application performance, and
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend Development
