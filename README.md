@@ -45,56 +45,31 @@ I prioritize clean code, maintainable architecture, application performance, and
 ---
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
-
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML5" /> <strong>HTML5</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS3" /> <strong>CSS3</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript" /> <strong>JavaScript</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React.js" /> <strong>React.js</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=reactrouter" width="32" height="32" alt="React Router" /> <strong>React Router</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" /> <strong>Tailwind CSS</strong>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,tailwind" />
 </p>
 
-### ⚙️ Backend Development
-
+### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js" /> <strong>Node.js</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express.js" /> <strong>Express.js</strong>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases & Storage
-
+### Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" /> <strong>MongoDB</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="32" height="32" alt="Firebase" /> <strong>Firebase</strong>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### 🔧 Development Tools
-
+### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" /> <strong>Git</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" /> <strong>GitHub</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VS Code" /> <strong>VS Code</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=npm" width="32" height="32" alt="npm" /> <strong>npm</strong>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
-### 🔗 APIs & Integration
-
+### APIs & Integration
 <p>
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
-  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 ---
 
