@@ -23,7 +23,7 @@
     <a href="https://mehedirobi-portfolio.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/mehedirobii/">
+    <a href="https://www.linkedin.com/in/mehedirobi">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/mehedirobi">
@@ -91,10 +91,6 @@ I value clean code, maintainable architecture, performance, and user experience.
       <h3>🌐 Full-Stack Web Applications</h3>
       <p>End-to-end applications using React, Node.js, Express.js, and MongoDB.</p>
     </td>
-    <td width="50%">
-      <h3>📊 SaaS Platforms & Dashboards</h3>
-      <p>Modern dashboards and structured interfaces for users, teams, and administrators.</p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
@@ -117,81 +113,6 @@ I value clean code, maintainable architecture, performance, and user experience.
     </td>
   </tr>
 </table>
-
----
-
-## 💼 Featured Projects
-
-### ⚽ Khelaro — Sports Turf Booking Platform
-
-A sports turf booking platform where users can discover venues, explore availability, and manage bookings. Includes separate customer, turf-owner, and administrator workflows.
-
-**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase Authentication
-
-<p>
-  <a href="https://khelaro-project.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khelaro Live Demo" />
-  </a>
-  <a href="https://github.com/mehedirobi/khelaro">
-    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Client Repository" />
-  </a>
-  <a href="https://github.com/mehedirobi/khelaro-server">
-    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Khelaro Server Repository" />
-  </a>
-</p>
-
-### 🐾 PawMart — Pet Adoption & Supplies Marketplace
-
-A marketplace for discovering pets for adoption and browsing pet supplies, with user listings, authentication, order management, and PDF order reports.
-
-**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase Authentication
-
-<p>
-  <a href="https://pawmart-project-01.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PawMart Live Demo" />
-  </a>
-  <a href="https://github.com/mehedirobi/pawmart">
-    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="PawMart Client Repository" />
-  </a>
-  <a href="https://github.com/mehedirobi/pawmart-server">
-    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PawMart Server Repository" />
-  </a>
-</p>
-
-### 🏙️ UrbanFix — Public Infrastructure Issue Reporting System
-
-A platform for citizens to report and track infrastructure issues, with role-based workflows, issue timelines, priority features, and dashboard analytics.
-
-**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase Authentication · Stripe
-
-<p>
-  <a href="https://urbanfix-project-01.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UrbanFix Live Demo" />
-  </a>
-  <a href="https://github.com/mehedirobi/urbanfix">
-    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Client Repository" />
-  </a>
-  <a href="https://github.com/mehedirobi/urbanfix-server">
-    <img src="https://img.shields.io/badge/Server_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="UrbanFix Server Repository" />
-  </a>
-</p>
-
-### 🧸 ToyVerse — Online Toy Marketplace
-
-A responsive toy marketplace where users can browse toys, view product details, and access protected account features.
-
-**Tech Stack:** React · React Router · Firebase Authentication · Tailwind CSS
-
-<p>
-  <a href="https://toyverse-project-01.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ToyVerse Live Demo" />
-  </a>
-  <a href="https://github.com/mehedirobi/toyverse">
-    <img src="https://img.shields.io/badge/Client_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ToyVerse Client Repository" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Statistics
 
