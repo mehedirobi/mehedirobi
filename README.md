@@ -71,7 +71,6 @@ I prioritize clean code, maintainable architecture, application performance, and
   <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase%20Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
----
 
 ## 🚀 What I Build
 
