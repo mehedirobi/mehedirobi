@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/Nn7TzFjD/banner-image.png" alt="Mehedi Robi — MERN Stack Developer" width="100%" />  <h1>Hi there, I'm Mehedi Robi</h1>
+  <img src="https://i.ibb.co.com/JFnRYTs5/mehedirobi-banner.png" alt="Mehedi Robi — MERN Stack Developer" width="100%" />  <h1>Hi there, I'm Mehedi Robi</h1>
   <h3>MERN Stack Developer | React.js, Node.js, Express.js & MongoDB</h3>  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=MERN+Stack+Developer%3BFull-Stack+Web+Developer%3BJavaScript+Developer%3BReact.js+Developer%3BNode.js+Developer%3BSoftware+Engineering+Enthusiast"
     alt="MERN Stack Developer, Full-Stack Web Developer, JavaScript Developer, React.js Developer, Node.js Developer, Software Engineering Enthusiast"
