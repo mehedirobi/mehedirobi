@@ -48,121 +48,45 @@ I prioritize clean code, maintainable architecture, application performance, and
 ### 🎨 Frontend Development
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" />
-  </a>
-  <br />
-  <strong>HTML5</strong>
-</p>
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3" />
-  </a>
-  <br />
-  <strong>CSS3</strong>
-</p>
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" />
-  </a>
-  <br />
-  <strong>JavaScript</strong>
-</p>
-
-<p>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React.js" />
-  </a>
-  <br />
-  <strong>React.js</strong>
-</p>
-
-<p>
-  <a href="https://reactrouter.com/">
-    <img src="https://skillicons.dev/icons?i=reactrouter" width="40" alt="React Router" />
-  </a>
-  <br />
-  <strong>React Router</strong>
-</p>
-
-<p>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" />
-  </a>
-  <br />
-  <strong>Tailwind CSS</strong>
+  <img src="https://skillicons.dev/icons?i=html" width="20" alt="HTML5" /> <strong>HTML5</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="20" alt="CSS3" /> <strong>CSS3</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="20" alt="JavaScript" /> <strong>JavaScript</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="20" alt="React.js" /> <strong>React.js</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=reactrouter" width="20" alt="React Router" /> <strong>React Router</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="20" alt="Tailwind CSS" /> <strong>Tailwind CSS</strong>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
-  </a>
-  <br />
-  <strong>Node.js</strong>
-</p>
-
-<p>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" />
-  </a>
-  <br />
-  <strong>Express.js</strong>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="20" alt="Node.js" /> <strong>Node.js</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="20" alt="Express.js" /> <strong>Express.js</strong>
 </p>
 
 ### 🗄️ Databases & Storage
 
 <p>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" />
-  </a>
-  <br />
-  <strong>MongoDB</strong>
-</p>
-
-<p>
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" />
-  </a>
-  <br />
-  <strong>Firebase</strong>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="20" alt="MongoDB" /> <strong>MongoDB</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="20" alt="Firebase" /> <strong>Firebase</strong>
 </p>
 
 ### 🔧 Development Tools
 
 <p>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
-  </a>
-  <br />
-  <strong>Git</strong>
-</p>
-
-<p>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-  </a>
-  <br />
-  <strong>GitHub</strong>
-</p>
-
-<p>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" />
-  </a>
-  <br />
-  <strong>VS Code</strong>
-</p>
-
-<p>
-  <a href="https://www.npmjs.com/">
-    <img src="https://skillicons.dev/icons?i=npm" width="40" alt="npm" />
-  </a>
-  <br />
-  <strong>npm</strong>
+  <img src="https://skillicons.dev/icons?i=git" width="20" alt="Git" /> <strong>Git</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="20" alt="GitHub" /> <strong>GitHub</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="20" alt="VS Code" /> <strong>VS Code</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" width="20" alt="npm" /> <strong>npm</strong>
 </p>
 
 ### 🔗 APIs & Integration
