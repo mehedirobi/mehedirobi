@@ -48,45 +48,45 @@ I prioritize clean code, maintainable architecture, application performance, and
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="20" alt="HTML5" /> <strong>HTML5</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="20" alt="CSS3" /> <strong>CSS3</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="20" alt="JavaScript" /> <strong>JavaScript</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="20" alt="React.js" /> <strong>React.js</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=reactrouter" width="20" alt="React Router" /> <strong>React Router</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="20" alt="Tailwind CSS" /> <strong>Tailwind CSS</strong>
+  <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML5" /> <strong>HTML5</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS3" /> <strong>CSS3</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript" /> <strong>JavaScript</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React.js" /> <strong>React.js</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=reactrouter" width="32" height="32" alt="React Router" /> <strong>React Router</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" /> <strong>Tailwind CSS</strong>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="20" alt="Node.js" /> <strong>Node.js</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="20" alt="Express.js" /> <strong>Express.js</strong>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js" /> <strong>Node.js</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express.js" /> <strong>Express.js</strong>
 </p>
 
 ### 🗄️ Databases & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="20" alt="MongoDB" /> <strong>MongoDB</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="20" alt="Firebase" /> <strong>Firebase</strong>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" /> <strong>MongoDB</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="32" height="32" alt="Firebase" /> <strong>Firebase</strong>
 </p>
 
 ### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="20" alt="Git" /> <strong>Git</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="20" alt="GitHub" /> <strong>GitHub</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="20" alt="VS Code" /> <strong>VS Code</strong>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=npm" width="20" alt="npm" /> <strong>npm</strong>
+  <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" /> <strong>Git</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" /> <strong>GitHub</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VS Code" /> <strong>VS Code</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" width="32" height="32" alt="npm" /> <strong>npm</strong>
 </p>
 
 ### 🔗 APIs & Integration
