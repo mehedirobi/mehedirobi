@@ -5,7 +5,7 @@
     width="100%"
   />
 
-  <h1>Hi there, I'm Mehedi Robi 👋</h1>
+  <h1>Hi there, I'm Mehedi Robi</h1>
 
   <h3>MERN Stack Developer | React.js, Node.js, Express.js & MongoDB</h3>
 
