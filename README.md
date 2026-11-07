@@ -107,5 +107,4 @@ I'm looking for an entry-level Software Engineer role where I can contribute to 
   <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/mehedirobi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <p><sub>mehedirobidev@gmail.com</sub></p>
 </div>
