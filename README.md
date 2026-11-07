@@ -1,7 +1,3 @@
-<!--
-  BANNER: replace YOUR_BANNER_IMAGE_URL below with the URL of your own banner image.
-  Recommended size: 1280x320 px (4:1). Keep the alt text descriptive.
--->
 <div align="center">
 
 ![Mehedi Robi — Aspiring Software Engineer](https://i.ibb.co.com/JFnRYTs5/mehedirobi-banner.png)
@@ -12,16 +8,21 @@
   <h1>Mehedi Robi</h1>
   <h3>Aspiring Software Engineer</h3>
   <p>Building reliable, maintainable, and user-focused web applications.</p>
-  <p>Dhaka, Bangladesh</p>
+  <p>
+    Dhaka, Bangladesh &nbsp;·&nbsp;
+    <a href="tel:+8801336458100">+8801336458100</a> &nbsp;·&nbsp;
+    <a href="mailto:mehedirobidev@gmail.com">mehedirobidev@gmail.com</a>
+  </p>
+  <p>
+    <a href="https://github.com/mehedirobi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/mehedirobi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  </p>
 </div>
 
 ## About Me
 
-I'm a Computer Science & Technology graduate with hands-on experience building full-stack web applications through my own projects. My work covers the full development cycle: designing responsive user interfaces with React and Tailwind CSS, building REST APIs with Node.js and Express.js, modeling application data in MongoDB, and implementing authentication with protected routes and role-based access control.
-
-I care about clean, readable, and maintainable code, reliable application behavior, and a smooth user experience. I enjoy problem-solving and breaking features down into well-structured, testable pieces, and I keep learning to strengthen my engineering fundamentals.
-
-I'm looking for an entry-level Software Engineer role where I can contribute to real-world software projects while growing alongside an experienced team.
+I'm an aspiring Software Engineer and Computer Science & Technology graduate with practical experience building full-stack web applications through my own projects. I work with React and Tailwind CSS on the frontend, Node.js and Express.js on the backend, and MongoDB and Firebase Authentication for data and user accounts, connecting everything through REST APIs. I focus on clean, maintainable code and reliable applications, enjoy solving problems, and I'm looking for an entry-level Software Engineer role where I can contribute to real-world software while continuing to grow.
 
 ## Technical Skills
 
@@ -69,42 +70,28 @@ I'm looking for an entry-level Software Engineer role where I can contribute to 
 
 ## What I Do
 
-- Build responsive, user-friendly web applications
-- Develop reusable frontend components
-- Integrate frontend applications with REST APIs
+- Build responsive and user-friendly web applications
+- Develop reusable and maintainable React components
+- Integrate REST APIs and handle application data
 - Implement authentication and protected routes
 - Develop backend APIs and CRUD functionality
-- Work with databases and application data
-- Build maintainable full-stack application features
+- Work with databases and full-stack application workflows
 
 ## Currently Learning
 
-- Strengthening software engineering fundamentals
-- Improving problem-solving and programming skills
-- Learning better application architecture and clean code practices
-- Deepening backend development and database knowledge
-- Exploring Next.js beyond the basics
-
-## GitHub Activity
-
-<div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="Mehedi Robi's GitHub stats"
-    height="170"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&theme=github_dark"
-    alt="Most used languages"
-    height="170"
-  />
-</div>
+- Software engineering fundamentals
+- Data structures and problem-solving
+- Clean code and maintainable architecture
+- Backend development and database concepts
+- Building on my Next.js basics
 
 ## Contact
 
+<p align="center">Open to entry-level and Junior Software Engineer opportunities.</p>
+
 <div align="center">
   <a href="mailto:mehedirobidev@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mehedirobii/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mehedirobi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mehedirobi-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/mehedirobi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
