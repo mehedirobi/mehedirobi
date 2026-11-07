@@ -1,158 +1,129 @@
 <div align="center">
-  <img
-    src="https://i.ibb.co.com/JFnRYTs5/mehedirobi-banner.png"
-    alt="Mehedi Robi — MERN Stack Developer"
-    width="100%"
-  />
 
-  <h1>Hi there, I'm Mehedi Robi</h1>
+# Mehedi Robi
 
-  <h3>MERN Stack Developer | React.js, Node.js, Express.js & MongoDB</h3>
+**Aspiring Software Engineer** · Dhaka, Bangladesh
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;JavaScript+Developer;React.js+Developer;Node.js+Developer;Software+Engineering+Enthusiast"
-    alt="MERN Stack Developer, Full-Stack Web Developer, JavaScript Developer, React.js Developer, Node.js Developer"
-  />
+I build reliable, maintainable, and user-focused full-stack web applications, and I'm looking for an entry-level Software Engineer role where I can keep growing through real-world engineering work.
 
-  <p>
-    I build modern, responsive, and scalable web applications using the MERN stack.
-    I focus on practical solutions, maintainable code, and intuitive user experiences.
-  </p>
+<a href="https://mehedirobi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mehedirobii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mehedirobidev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-  <p>
-    <a href="https://mehedirobi-portfolio.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/mehedirobi">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mehedirobidev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **MERN Stack Developer** specializing in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+I'm a Computer Science & Technology graduate who builds full-stack applications end to end: responsive interfaces, REST APIs, database design, authentication, and role-based access control.
 
-My development experience includes building responsive user interfaces, reusable React components, RESTful APIs, authentication systems, protected routes, CRUD operations, and database-driven application features.
-
-I prioritize clean code, maintainable architecture, application performance, and user experience. I'm continuously strengthening my technical and problem-solving skills, with the long-term goal of growing into a **Software Engineer**.
+I care about clean, readable code, sensible architecture, and software that is easy to maintain and pleasant to use. I'm currently strengthening my fundamentals in problem solving, backend development, and software design.
 
 ---
-## 🛠️ Tech Stack
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+## Technical Skills
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<table>
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript (ES6+), HTML5, CSS3" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React.js, Next.js (basics), Tailwind CSS" /><br /><sub>Responsive web design · Next.js at a basic level</sub></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" /><br /><sub>RESTful APIs</sub></td>
+  </tr>
+  <tr>
+    <td><b>Database & Auth</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="MongoDB, Firebase Authentication" /><br /><sub>MongoDB · Firebase Authentication</sub></td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" alt="Git, GitHub, Netlify, Vercel, VS Code" /></td>
+  </tr>
+</table>
 
-### Databases & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
+**Core competencies:** REST API integration · Authentication & authorization · Role-based access control · CRUD operations · Full-stack application development
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+---
 
-### APIs & Integration
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase%20Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-## 🚀 What I Build
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Web Applications</h3>
-      <p>End-to-end web applications built with React, Node.js, Express.js, and MongoDB.</p>
+      <h3>Khelaro</h3>
+      <p>Full-stack turf booking platform for discovering turfs and reserving date and time slots.</p>
+      <ul>
+        <li>Role-based dashboards for customers and turf owners</li>
+        <li>RESTful APIs built with Express.js and MongoDB</li>
+      </ul>
+      <sub>React.js · Next.js · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ RESTful APIs & Backend Services</h3>
-      <p>REST API development, server-side logic, data processing, and application integration.</p>
+      <h3>UrbanFix</h3>
+      <p>Civic issue reporting platform for reporting, tracking, and managing infrastructure issues.</p>
+      <ul>
+        <li>Firebase Authentication with protected routes</li>
+        <li>MongoDB-backed REST APIs for issue submission and status tracking</li>
+      </ul>
+      <sub>React.js · Next.js · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Authentication & Authorization</h3>
-      <p>Authentication flows, protected routes, and role-based access control.</p>
+      <h3>PawMart</h3>
+      <p>Pet adoption and supplies marketplace with filtering, listing CRUD, adoption workflows, and ordering.</p>
+      <ul>
+        <li>Email/password and Google authentication</li>
+        <li>Listing and order dashboards with downloadable PDF reports</li>
+      </ul>
+      <sub>React.js · Next.js · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ Database-Driven Applications</h3>
-      <p>CRUD operations, MongoDB integration, and persistent application data.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Responsive User Interfaces</h3>
-      <p>Accessible, interactive, and responsive interfaces across different screen sizes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Dashboard & Management Systems</h3>
-      <p>Structured dashboards and management interfaces for users and administrators.</p>
+      <h3>More details</h3>
+      <p>Live demos and client/server source code for each project are available in my portfolio.</p>
+      <p><a href="https://mehedirobi-portfolio.netlify.app/">View portfolio →</a></p>
     </td>
   </tr>
 </table>
 
+<!--
+  Add verified links under each project when ready, e.g.:
+  <a href="LIVE_DEMO_URL">Live Demo</a> · <a href="CLIENT_REPO_URL">Client</a> · <a href="SERVER_REPO_URL">Server</a>
+-->
+
 ---
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
 <div align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=mehedirobi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="Mehedi Robi's GitHub Statistics"
+    alt="Mehedi Robi's GitHub stats"
     height="170"
   />
-
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=mehedirobi&layout=compact&hide_border=true&theme=github_dark"
-    alt="Most Used Programming Languages"
+    alt="Most used languages"
     height="170"
   />
-
-  <br />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=mehedirobi&theme=github-dark-blue&hide_border=true"
-    alt="Mehedi Robi's GitHub Contribution Streak"
-    width="70%"
-  />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Contact
 
-I'm open to professional opportunities, meaningful collaborations, and connecting with other developers in the software development community.
-
-<div align="center">
-  <a href="https://mehedirobi-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mehedirobii/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mehedirobidev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
+Open to entry-level Software Engineer opportunities and collaboration.
 
 <div align="center">
-  <sub>Building, learning, and improving one project at a time.</sub>
+
+<a href="https://mehedirobi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mehedirobii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mehedirobidev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
