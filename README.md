@@ -87,6 +87,7 @@ I'm an aspiring Software Engineer and Computer Science & Technology graduate wit
 
 ## Contact
 
+
 <p align="center">Open to entry-level and Junior Software Engineer opportunities.</p>
 
 <div align="center">
