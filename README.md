@@ -3,7 +3,6 @@
 ![Mehedi Robi — Aspiring Software Engineer](https://i.ibb.co.com/JFnRYTs5/mehedirobi-banner.png)
 
 </div>
-
 <div align="center">
   <h1>Mehedi Robi</h1>
   <h3>Aspiring Software Engineer</h3>
