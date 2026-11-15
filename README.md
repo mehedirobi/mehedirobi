@@ -87,7 +87,6 @@ I'm an aspiring Software Engineer and Computer Science & Technology graduate wit
 ## Contact
 
 <p align="center">Open to entry-level and Junior Software Engineer opportunities.</p>
-
 <div align="center">
   <a href="mailto:mehedirobidev@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mehedirobi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
