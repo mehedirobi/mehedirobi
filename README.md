@@ -1,6 +1,6 @@
 <div align="center">
   
-![Mehedi Robi — Aspiring Software Engineer](https://i.ibb.co.com/JFnRYTs5/mehedirobi-banner.png)
+![Mehedi Robi — Aspiring Software Engineer](https://i.ibb.co.com/KxNFCjV1/Mehedi-Robi-Banner-Photo.png)
 
 </div>
 <div align="center">
